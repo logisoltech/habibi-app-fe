@@ -1,0 +1,78 @@
+{
+  "expo": {
+    "scheme": "habibifitness",
+    "name": "habibi-fitness",
+    "slug": "habibi-fitness",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.logisoltech.habibifitness",
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "INTERNET",
+        "READ_EXTERNAL_STORAGE",
+        "RECEIVE_BOOT_COMPLETED",
+        "RECORD_AUDIO",
+        "SYSTEM_ALERT_WINDOW",
+        "VIBRATE",
+        "WAKE_LOCK",
+        "WRITE_EXTERNAL_STORAGE",
+        "POST_NOTIFICATIONS",
+        "com.android.vending.BILLING"
+      ]
+    },
+    "notification": {
+      "icon": "./assets/icon.png",
+      "color": "#07da63",
+      "iosDisplayInForeground": true,
+      "androidMode": "default",
+      "androidCollapsedTitle": "New updates from Habibi Fitness"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "GEO_API_KEY": "AIzaSyAi-jwXP-GUFobRc6dW8OklhG7K0z5dPok",
+      "router": {},
+      "eas": {
+        "projectId": "4c3b4c31-102e-459d-97c6-fecb22e5f859"
+      }
+    },
+    "plugins": [
+      "expo-font",
+      "expo-router",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#07da63",
+          "sounds": []
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share your transformation images.",
+          "cameraPermission": false
+        }
+      ]
+    ]
+  }
+}

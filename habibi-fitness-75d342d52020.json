@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "habibi-fitness",
+  "private_key_id": "75d342d52020f2944273d8d6dad355663ef3fe44",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBkJ7naycm4gHN\ncr+vhqFtV2Ei2ePG4QD5Va8MC2CinUr8oTdP3asuMgs1PB3gwpJgWgrV/59u906M\nwF+lrAm4UMKImYPjVMaUXJG99JkH1yoa5Wbcke7mwXGZeyb0IXPOQaN0TWIfdquW\njhcutxnR8xhAgzPUh4fW08xrM2j9ezUgeNPIVHSxVHGEpqNx+b1DChemAn7/lVbc\n+WVuz2gZlq0TAXAnuhQC9koekO0kkAH8mRdbbbWua7pkqN7ZStK1ajssXP4bxDh+\nF+9OuF9KLBLKOYGYxqrw+hIJzAFYs36SpinAEQJXkIQUy42ItrmvYkXx/D73WRqV\nWcHfKqC/AgMBAAECggEALX47CrLxeb8Go23DxZJD4Hn394P0d+qsGu3bfV4zMST8\n2dFeOaQktm/GmJVvhELWulSPVWqF40O2r3gLQtnjUvGQNyC1kbl8DqSPEHErgl88\noyOlgFPALXXrqCH8rsYp/KEKtKv3UuPGQlVU94LLS7/xxD/R77KG56PR2KQ1mdVx\np0iO8yHl65OBtul/swTjvk/4LEXnAwHh1V0MJah+PPlMqsXGPCvKjm/bHZxB8Dq3\nciiugElyYaO5Uu8EMAOFoqOITKM3KnTpvGjzYbzbG7o/DBe7O5gI22r6F/j+2qKs\nQOzNadzoP+9nZiKKlhJdNu369QkYyW9QLT84sQ8yOQKBgQDjK9Ivq3tWD1SicadZ\nZ1KGmUJHOiNoQ9Wx4uiR9Eivz1Jly0EDVAfaje1otT+qcIlNtlYgByC+T6VF5IPo\nrQb+wtDEF65eWEryMR/p+KT5jkKgK5ruBi2t2UZe4QvEirGvxXStAicdEieTjybn\n8/9ZiQHFcaDZS/h2cdahPOSRQwKBgQDaIQXv45giUIlvd9x+PKMDOHPblgkVSfgK\nCjByGyp2lTsxdPN7Z1lccFMHx5BkL0lwf+XqZjwRsfDNxeS5BuQeTbERGMdbrSKM\nKpZDwAIyt5Wz3Vj3RX4KNwieyKKbUB4MGnFaU70m/WJNc/GWB+lMN6zflb8Jr0xW\neukxWVzs1QKBgAVD68A9GkO5YT3OopFY6rnB7Z5XA6EUCWzxFHDll5WzmXZQirY4\nCWKQbZNCuDIMH7KUalSdta2TjQIctM38zK+09j/FSL5ZD4ujhdjXcYNzP6oUuKeR\nrxdbdN0YHDy29j1bt0OXTC7JT++EnuM7bYy2tzrLUm4W67BbHR1pmuafAoGASHwE\nzwygd3av1PzNpp1bxiwyQ9v9tLdZ12w/YQup9rHsc6jbaDyVs2QYE1O7pa8ZBmtZ\n6aSDfZXV4WtLcDjcAT3sAzRquwozmsRkHqtlj5j2BEkf0TukgJx9HtapQldDRN5c\noJmHF7fHvNk0hJiobA1sQvgt/XflNC+v4hhCCukCgYEApTWdAM5+GKRU24BABYAV\nG9nNu2DwCLPAXhgprk4DUkAJ8kmNuMKaxVx4r41reMHh3tvpS21EULgexX3twwkX\nmnPhwxmvHNWJqjOJGY8SS1GkGf4M7TeBpl4LSbQ5O+SwJweQAA9f6mys95+Dm+ik\nKYJTxwFXvB+0PoEl37H1eG8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "habibi-fitness-service-account@habibi-fitness.iam.gserviceaccount.com",
+  "client_id": "117121670976438457183",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/habibi-fitness-service-account%40habibi-fitness.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

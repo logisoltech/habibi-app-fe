@@ -1,0 +1,3499 @@
+{
+    "plan": "Weekly Plan",
+    "weeks": [
+      {
+        "days": {
+          "friday": {
+            "dinner": {
+              "id": "8715b4d0-85f2-4caa-8582-576eedc50db2",
+              "fat": 19,
+              "name": "Thai Green Curry with Vegetables",
+              "carbs": 28,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 8,
+              "calories": 310,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Thai%20Green%20Curry%20with%20Vegetables.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9UaGFpIEdyZWVuIEN1cnJ5IHdpdGggVmVnZXRhYmxlcy5wbmciLCJpYXQiOjE3NTkyMjU4MjIsImV4cCI6NDkxMjgyNTgyMn0.RGVHhbzw0ie-Hbnujeep3cy500u3dnCj-FYvy_l0tiU",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:50:29.359915+00:00",
+              "description": "Vegetables simmered in coconut milk and green curry paste.",
+              "ingredients": [
+                "Zucchini",
+                "Bell peppers",
+                "Broccoli",
+                "Carrots",
+                "Coconut milk",
+                "Thai curry paste",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Asian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Cook curry paste with coconut milk.",
+                "Add vegetables.",
+                "Simmer until tender."
+              ]
+            }
+          },
+          "monday": {
+            "lunch": {
+              "id": "fd92ef09-518d-4bbd-9d56-56cd7c6dd34e",
+              "fat": 9,
+              "name": "Lentil & Veggie Stew",
+              "carbs": 60,
+              "fiber": 15,
+              "price": 28,
+              "rating": 4,
+              "status": "preparing",
+              "protein": 22,
+              "calories": 430,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Lentil%20&%20Veggie%20Stew.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvTGVudGlsICYgVmVnZ2llIFN0ZXcucG5nIiwiaWF0IjoxNzU5MjI2NjQ2LCJleHAiOjE3Njc4NjY2NDZ9.NIfl1q4qlJbEGiteQCjxDg6ArHdgX_-TD10DvOsVQ1I",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:04:20.171509+00:00",
+              "description": "Hearty stew made with lentils and vegetables.",
+              "ingredients": [
+                "Lentils",
+                "Carrots",
+                "Celery",
+                "Onion",
+                "Tomato",
+                "Olive oil",
+                "Herbs"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Simmer lentils and vegetables until tender."
+              ],
+              "status_updated_at": "2025-10-08T18:17:23.580Z"
+            },
+            "dinner": {
+              "id": "93950d79-63e4-4ba4-a78d-94cfe8f7a8f5",
+              "fat": 14,
+              "name": "Quinoa-Stuffed Bell Peppers",
+              "carbs": 49,
+              "fiber": 10,
+              "price": 30,
+              "rating": 4,
+              "protein": 35,
+              "calories": 490,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Quinoa-Stuffed%20Bell%20Peppers.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL1F1aW5vYS1TdHVmZmVkIEJlbGwgUGVwcGVycy5wbmciLCJpYXQiOjE3NTkyMjU5NjUsImV4cCI6NDkxMjgyNTk2NX0.Ok5sAIcTuyexXwi-W8PaXMA5BUQ2LcCdww-iCajqe4c",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:52:52.75992+00:00",
+              "description": "Bell peppers stuffed with quinoa, beans, corn, and cheese.",
+              "ingredients": [
+                "Bell peppers",
+                "Quinoa",
+                "Black beans",
+                "Corn",
+                "Onion",
+                "Cheese",
+                "Salsa"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Stuff peppers with quinoa mix.",
+                "Bake topped with cheese."
+              ]
+            }
+          },
+          "sunday": {
+            "dinner": {
+              "id": "f0abaa72-24f5-4a34-be6a-c255b9ef83b2",
+              "fat": 20,
+              "name": "Grilled Halloumi & Roasted Veggies",
+              "carbs": 14,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 24,
+              "calories": 370,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Grilled%20Halloumi%20&%20Roasted%20Veggies.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0dyaWxsZWQgSGFsbG91bWkgJiBSb2FzdGVkIFZlZ2dpZXMucG5nIiwiaWF0IjoxNzU5MjI5NzEzLCJleHAiOjQ5MTI4Mjk3MTN9.7sGALaygEesW7htFRUiDujlR3swkXhTY3gBDmmO9WHA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:55:20.742787+00:00",
+              "description": "Grilled halloumi served with roasted vegetables.",
+              "ingredients": [
+                "100g halloumi",
+                "100g zucchini",
+                "100g bell peppers",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast vegetables.",
+                "Grill halloumi.",
+                "Combine with olive oil drizzle."
+              ]
+            }
+          },
+          "tuesday": {
+            "lunch": {
+              "id": "749b7042-27e1-4c16-9b11-3632dc115a00",
+              "fat": 12,
+              "name": "Chickpea & Spinach Curry with Rice",
+              "carbs": 64,
+              "fiber": 12,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 490,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Chickpea%20&%20Spinach%20Curry%20with%20Rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvQ2hpY2twZWEgJiBTcGluYWNoIEN1cnJ5IHdpdGggUmljZS5wbmciLCJpYXQiOjE3NTc1ODk2MTQsImV4cCI6NDkxMTE4OTYxNH0.LsR5MRMCExx2D_kAYc47iMJsTA-zhRSbM6OKHtMdyP8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-17T07:33:54.888255+00:00",
+              "description": "Vegetarian chickpea curry served with rice.",
+              "ingredients": [
+                "Chickpeas",
+                "Spinach",
+                "Onion",
+                "Tomato",
+                "Curry spices",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook curry with chickpeas and spinach.",
+                "Serve with rice."
+              ]
+            },
+            "dinner": {
+              "id": "749347e6-16d5-4526-96db-1a11df3d9034",
+              "fat": 18,
+              "name": "Spinach & Ricotta Stuffed Shells",
+              "carbs": 48,
+              "fiber": 6,
+              "price": 34,
+              "rating": 4,
+              "protein": 21,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Spinach%20&%20Ricotta%20Stuffed%20Shells.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9TcGluYWNoICYgUmljb3R0YSBTdHVmZmVkIFNoZWxscy5wbmciLCJpYXQiOjE3NTkyMjUxODYsImV4cCI6NDkxMjgyNTE4Nn0.C0tf7oI7YzrGZVPuN8KBrYmwZOWLzEzidSPazatTjW0",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:39:54.567248+00:00",
+              "description": "Baked pasta shells stuffed with ricotta and spinach, topped with cheese.",
+              "ingredients": [
+                "Pasta shells",
+                "Ricotta",
+                "Spinach",
+                "Parmesan",
+                "Marinara",
+                "Mozzarella"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "High Protein"
+              ],
+              "instructions": [
+                "Stuff shells with ricotta-spinach mix.",
+                "Bake with marinara and cheese."
+              ]
+            }
+          },
+          "saturday": {
+            "dinner": {
+              "id": "e00c7089-c2c9-4038-b6c0-daf611a44342",
+              "fat": 22,
+              "name": "Eggplant Parmesan (Baked)",
+              "carbs": 36,
+              "fiber": 7,
+              "price": 30,
+              "rating": 4,
+              "protein": 18,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Eggplant%20Parmesan%20(Baked).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9FZ2dwbGFudCBQYXJtZXNhbiAoQmFrZWQpLnBuZyIsImlhdCI6MTc1OTIyNzY5OSwiZXhwIjo1MjU5NzIzNjk5fQ.gtgH0bxdc8Nq2kJaTJ5zl6jrlRStaNudorczUAm2VrA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:21:42.122992+00:00",
+              "description": "Baked eggplant layered with marinara, mozzarella, and parmesan.",
+              "ingredients": [
+                "Eggplant",
+                "Marinara sauce",
+                "Mozzarella",
+                "Parmesan",
+                "Breadcrumbs",
+                "Olive oil",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "Comfort Food"
+              ],
+              "instructions": [
+                "Bake eggplant slices.",
+                "Layer with sauce and cheese.",
+                "Bake until golden."
+              ]
+            }
+          },
+          "thursday": {
+            "dinner": {
+              "id": "7443f000-7cf7-4829-bc28-2d403fd275c2",
+              "fat": 12,
+              "name": "Vegetable Paella",
+              "carbs": 58,
+              "fiber": 8,
+              "price": 30,
+              "rating": 4,
+              "protein": 10,
+              "calories": 380,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Vegetable%20Paella.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9WZWdldGFibGUgUGFlbGxhLnBuZyIsImlhdCI6MTc1OTIyNTAxNCwiZXhwIjo1MjU5NzIxMDE0fQ.iMzhfKk88-ds2dzv47LDYoctdE_FgtPaOndzrjuZqFs",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:37:02.620192+00:00",
+              "description": "Spanish-style paella with rice, peppers, peas, and saffron.",
+              "ingredients": [
+                "Arborio rice",
+                "Bell peppers",
+                "Peas",
+                "Artichokes",
+                "Onion",
+                "Garlic",
+                "Saffron",
+                "Paprika"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Spanish",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook onion and garlic.",
+                "Add rice and spices.",
+                "Simmer with broth and vegetables."
+              ]
+            }
+          },
+          "wednesday": {
+            "dinner": {
+              "id": "a7dc8e3c-832f-4866-bd16-0c80f5317f11",
+              "fat": 26,
+              "name": "Paneer Butter Masala (Light)",
+              "carbs": 18,
+              "fiber": 4,
+              "price": 30,
+              "rating": 4,
+              "protein": 16,
+              "calories": 380,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Paneer%20Butter%20Masala%20(Light).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9QYW5lZXIgQnV0dGVyIE1hc2FsYSAoTGlnaHQpLnBuZyIsImlhdCI6MTc1OTIyNjU2NCwiZXhwIjo1MjU5NzIyNTY0fQ.CEGOsdI_bQwohpdBTNp15g9e9eMqRnp8pd1Bm85lKDA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:02:50.981833+00:00",
+              "description": "Paneer cubes simmered in a spiced tomato-onion sauce with yogurt.",
+              "ingredients": [
+                "Paneer",
+                "Tomato puree",
+                "Onion",
+                "Garlic",
+                "Ginger",
+                "Cashews",
+                "Yogurt",
+                "Garam masala",
+                "Turmeric",
+                "Chili powder"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Indian"
+              ],
+              "instructions": [
+                "Cook onion",
+                "garlic",
+                "and tomatoes with spices.",
+                "Blend smooth.",
+                "Add paneer cubes and simmer."
+              ]
+            }
+          }
+        },
+        "week": 1,
+        "totalMeals": 9,
+        "fiveStarMeals": 0,
+        "mealsByCategory": {
+          "lunch": [
+            {
+              "id": "fd92ef09-518d-4bbd-9d56-56cd7c6dd34e",
+              "fat": 9,
+              "name": "Lentil & Veggie Stew",
+              "carbs": 60,
+              "fiber": 15,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 430,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Lentil%20&%20Veggie%20Stew.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvTGVudGlsICYgVmVnZ2llIFN0ZXcucG5nIiwiaWF0IjoxNzU5MjI2NjQ2LCJleHAiOjE3Njc4NjY2NDZ9.NIfl1q4qlJbEGiteQCjxDg6ArHdgX_-TD10DvOsVQ1I",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:04:20.171509+00:00",
+              "description": "Hearty stew made with lentils and vegetables.",
+              "ingredients": [
+                "Lentils",
+                "Carrots",
+                "Celery",
+                "Onion",
+                "Tomato",
+                "Olive oil",
+                "Herbs"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Simmer lentils and vegetables until tender."
+              ]
+            },
+            {
+              "id": "749b7042-27e1-4c16-9b11-3632dc115a00",
+              "fat": 12,
+              "name": "Chickpea & Spinach Curry with Rice",
+              "carbs": 64,
+              "fiber": 12,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 490,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Chickpea%20&%20Spinach%20Curry%20with%20Rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvQ2hpY2twZWEgJiBTcGluYWNoIEN1cnJ5IHdpdGggUmljZS5wbmciLCJpYXQiOjE3NTc1ODk2MTQsImV4cCI6NDkxMTE4OTYxNH0.LsR5MRMCExx2D_kAYc47iMJsTA-zhRSbM6OKHtMdyP8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-17T07:33:54.888255+00:00",
+              "description": "Vegetarian chickpea curry served with rice.",
+              "ingredients": [
+                "Chickpeas",
+                "Spinach",
+                "Onion",
+                "Tomato",
+                "Curry spices",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook curry with chickpeas and spinach.",
+                "Serve with rice."
+              ]
+            }
+          ],
+          "dinner": [
+            {
+              "id": "93950d79-63e4-4ba4-a78d-94cfe8f7a8f5",
+              "fat": 14,
+              "name": "Quinoa-Stuffed Bell Peppers",
+              "carbs": 49,
+              "fiber": 10,
+              "price": 30,
+              "rating": 4,
+              "protein": 35,
+              "calories": 490,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Quinoa-Stuffed%20Bell%20Peppers.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL1F1aW5vYS1TdHVmZmVkIEJlbGwgUGVwcGVycy5wbmciLCJpYXQiOjE3NTkyMjU5NjUsImV4cCI6NDkxMjgyNTk2NX0.Ok5sAIcTuyexXwi-W8PaXMA5BUQ2LcCdww-iCajqe4c",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:52:52.75992+00:00",
+              "description": "Bell peppers stuffed with quinoa, beans, corn, and cheese.",
+              "ingredients": [
+                "Bell peppers",
+                "Quinoa",
+                "Black beans",
+                "Corn",
+                "Onion",
+                "Cheese",
+                "Salsa"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Stuff peppers with quinoa mix.",
+                "Bake topped with cheese."
+              ]
+            },
+            {
+              "id": "749347e6-16d5-4526-96db-1a11df3d9034",
+              "fat": 18,
+              "name": "Spinach & Ricotta Stuffed Shells",
+              "carbs": 48,
+              "fiber": 6,
+              "price": 34,
+              "rating": 4,
+              "protein": 21,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Spinach%20&%20Ricotta%20Stuffed%20Shells.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9TcGluYWNoICYgUmljb3R0YSBTdHVmZmVkIFNoZWxscy5wbmciLCJpYXQiOjE3NTkyMjUxODYsImV4cCI6NDkxMjgyNTE4Nn0.C0tf7oI7YzrGZVPuN8KBrYmwZOWLzEzidSPazatTjW0",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:39:54.567248+00:00",
+              "description": "Baked pasta shells stuffed with ricotta and spinach, topped with cheese.",
+              "ingredients": [
+                "Pasta shells",
+                "Ricotta",
+                "Spinach",
+                "Parmesan",
+                "Marinara",
+                "Mozzarella"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "High Protein"
+              ],
+              "instructions": [
+                "Stuff shells with ricotta-spinach mix.",
+                "Bake with marinara and cheese."
+              ]
+            },
+            {
+              "id": "a7dc8e3c-832f-4866-bd16-0c80f5317f11",
+              "fat": 26,
+              "name": "Paneer Butter Masala (Light)",
+              "carbs": 18,
+              "fiber": 4,
+              "price": 30,
+              "rating": 4,
+              "protein": 16,
+              "calories": 380,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Paneer%20Butter%20Masala%20(Light).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9QYW5lZXIgQnV0dGVyIE1hc2FsYSAoTGlnaHQpLnBuZyIsImlhdCI6MTc1OTIyNjU2NCwiZXhwIjo1MjU5NzIyNTY0fQ.CEGOsdI_bQwohpdBTNp15g9e9eMqRnp8pd1Bm85lKDA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:02:50.981833+00:00",
+              "description": "Paneer cubes simmered in a spiced tomato-onion sauce with yogurt.",
+              "ingredients": [
+                "Paneer",
+                "Tomato puree",
+                "Onion",
+                "Garlic",
+                "Ginger",
+                "Cashews",
+                "Yogurt",
+                "Garam masala",
+                "Turmeric",
+                "Chili powder"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Indian"
+              ],
+              "instructions": [
+                "Cook onion",
+                "garlic",
+                "and tomatoes with spices.",
+                "Blend smooth.",
+                "Add paneer cubes and simmer."
+              ]
+            },
+            {
+              "id": "7443f000-7cf7-4829-bc28-2d403fd275c2",
+              "fat": 12,
+              "name": "Vegetable Paella",
+              "carbs": 58,
+              "fiber": 8,
+              "price": 30,
+              "rating": 4,
+              "protein": 10,
+              "calories": 380,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Vegetable%20Paella.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9WZWdldGFibGUgUGFlbGxhLnBuZyIsImlhdCI6MTc1OTIyNTAxNCwiZXhwIjo1MjU5NzIxMDE0fQ.iMzhfKk88-ds2dzv47LDYoctdE_FgtPaOndzrjuZqFs",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:37:02.620192+00:00",
+              "description": "Spanish-style paella with rice, peppers, peas, and saffron.",
+              "ingredients": [
+                "Arborio rice",
+                "Bell peppers",
+                "Peas",
+                "Artichokes",
+                "Onion",
+                "Garlic",
+                "Saffron",
+                "Paprika"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Spanish",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook onion and garlic.",
+                "Add rice and spices.",
+                "Simmer with broth and vegetables."
+              ]
+            },
+            {
+              "id": "8715b4d0-85f2-4caa-8582-576eedc50db2",
+              "fat": 19,
+              "name": "Thai Green Curry with Vegetables",
+              "carbs": 28,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 8,
+              "calories": 310,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Thai%20Green%20Curry%20with%20Vegetables.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9UaGFpIEdyZWVuIEN1cnJ5IHdpdGggVmVnZXRhYmxlcy5wbmciLCJpYXQiOjE3NTkyMjU4MjIsImV4cCI6NDkxMjgyNTgyMn0.RGVHhbzw0ie-Hbnujeep3cy500u3dnCj-FYvy_l0tiU",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:50:29.359915+00:00",
+              "description": "Vegetables simmered in coconut milk and green curry paste.",
+              "ingredients": [
+                "Zucchini",
+                "Bell peppers",
+                "Broccoli",
+                "Carrots",
+                "Coconut milk",
+                "Thai curry paste",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Asian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Cook curry paste with coconut milk.",
+                "Add vegetables.",
+                "Simmer until tender."
+              ]
+            },
+            {
+              "id": "e00c7089-c2c9-4038-b6c0-daf611a44342",
+              "fat": 22,
+              "name": "Eggplant Parmesan (Baked)",
+              "carbs": 36,
+              "fiber": 7,
+              "price": 30,
+              "rating": 4,
+              "protein": 18,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Eggplant%20Parmesan%20(Baked).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9FZ2dwbGFudCBQYXJtZXNhbiAoQmFrZWQpLnBuZyIsImlhdCI6MTc1OTIyNzY5OSwiZXhwIjo1MjU5NzIzNjk5fQ.gtgH0bxdc8Nq2kJaTJ5zl6jrlRStaNudorczUAm2VrA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:21:42.122992+00:00",
+              "description": "Baked eggplant layered with marinara, mozzarella, and parmesan.",
+              "ingredients": [
+                "Eggplant",
+                "Marinara sauce",
+                "Mozzarella",
+                "Parmesan",
+                "Breadcrumbs",
+                "Olive oil",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "Comfort Food"
+              ],
+              "instructions": [
+                "Bake eggplant slices.",
+                "Layer with sauce and cheese.",
+                "Bake until golden."
+              ]
+            },
+            {
+              "id": "f0abaa72-24f5-4a34-be6a-c255b9ef83b2",
+              "fat": 20,
+              "name": "Grilled Halloumi & Roasted Veggies",
+              "carbs": 14,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 24,
+              "calories": 370,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Grilled%20Halloumi%20&%20Roasted%20Veggies.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0dyaWxsZWQgSGFsbG91bWkgJiBSb2FzdGVkIFZlZ2dpZXMucG5nIiwiaWF0IjoxNzU5MjI5NzEzLCJleHAiOjQ5MTI4Mjk3MTN9.7sGALaygEesW7htFRUiDujlR3swkXhTY3gBDmmO9WHA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:55:20.742787+00:00",
+              "description": "Grilled halloumi served with roasted vegetables.",
+              "ingredients": [
+                "100g halloumi",
+                "100g zucchini",
+                "100g bell peppers",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast vegetables.",
+                "Grill halloumi.",
+                "Combine with olive oil drizzle."
+              ]
+            }
+          ],
+          "snacks": [],
+          "breakfast": []
+        }
+      },
+      {
+        "days": {
+          "friday": {
+            "lunch": {
+              "id": "4c233c17-858b-4848-b34a-344a9da8b00e",
+              "fat": 20,
+              "name": "Grilled Halloumi with Zucchini & Tomato Salad",
+              "carbs": 12,
+              "fiber": 5,
+              "price": 30,
+              "rating": 3,
+              "protein": 22,
+              "calories": 340,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Lunch/Grilled%20Halloumi%20with%20Zucchini%20&%20Tomato%20Salad.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgTHVuY2gvR3JpbGxlZCBIYWxsb3VtaSB3aXRoIFp1Y2NoaW5pICYgVG9tYXRvIFNhbGFkLnBuZyIsImlhdCI6MTc1OTIyOTEyNywiZXhwIjo0OTEyODI5MTI3fQ.fNphy5b3i7dTLBBMsfbf-haKQfYuKVzQuOGaGAN7ou8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:33:38.115676+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:45:33.140498+00:00",
+              "description": "Grilled halloumi cheese with zucchini and tomato salad.",
+              "ingredients": [
+                "80g halloumi",
+                "100g zucchini",
+                "100g tomato",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Grill halloumi.",
+                "Mix with zucchini and tomato.",
+                "Serve fresh."
+              ]
+            },
+            "dinner": {
+              "id": "70146dd9-d147-4232-b6ec-b017e8708030",
+              "fat": 22,
+              "name": "Broccoli & Cheese Casserole",
+              "carbs": 28,
+              "fiber": 7,
+              "price": 33,
+              "rating": 3,
+              "protein": 20,
+              "calories": 390,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Broccoli%20&%20Cheese%20Casserole.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9Ccm9jY29saSAmIENoZWVzZSBDYXNzZXJvbGUucG5nIiwiaWF0IjoxNzU5MjI3MDIzLCJleHAiOjE3Njc4NjcwMjN9.gmrKShwA0CMbWOqbp8tY5yWFCXRFcBD0bq9Pt-6P-no",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:10:30.389071+00:00",
+              "description": "Casserole with broccoli, cheese, eggs, and breadcrumbs.",
+              "ingredients": [
+                "Broccoli",
+                "Cheddar",
+                "Onion",
+                "Garlic",
+                "Eggs",
+                "Breadcrumbs",
+                "Milk"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Comfort Food"
+              ],
+              "instructions": [
+                "Steam broccoli.",
+                "Mix with cheese",
+                "eggs",
+                "and breadcrumbs.",
+                "Bake until golden."
+              ]
+            }
+          },
+          "monday": {
+            "lunch": {
+              "id": "a6b8f3fd-cd69-4735-a642-d5d8b40f14b8",
+              "fat": 14,
+              "name": "Cottage Cheese & Lentil Bowl",
+              "carbs": 28,
+              "fiber": 8,
+              "price": 24,
+              "rating": 2,
+              "protein": 38,
+              "calories": 400,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Protein%20Boost%20Lunch/Cottage%20Cheese%20&%20Lentil%20Bowl.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvUHJvdGVpbiBCb29zdCBMdW5jaC9Db3R0YWdlIENoZWVzZSAmIExlbnRpbCBCb3dsLnBuZyIsImlhdCI6MTc1OTIyNjQ5MCwiZXhwIjo0OTEyODI2NDkwfQ.T-URtLBbzlChm8ifEfP1Oy86Ok9cG1ajdZarBFT9WrE",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:44:45.309577+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:01:36.727272+00:00",
+              "description": "Cottage cheese mixed with lentils, cucumber, and tomato.",
+              "ingredients": [
+                "Cottage cheese",
+                "Cooked lentils",
+                "Cucumber",
+                "Tomato",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Protein Boost",
+                "High Protein",
+                "Vegetarian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Mix cottage cheese with lentils and veggies.",
+                "Drizzle with olive oil."
+              ]
+            },
+            "dinner": {
+              "id": "93950d79-63e4-4ba4-a78d-94cfe8f7a8f5",
+              "fat": 14,
+              "name": "Quinoa-Stuffed Bell Peppers",
+              "carbs": 49,
+              "fiber": 10,
+              "price": 30,
+              "rating": 4,
+              "protein": 35,
+              "calories": 490,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Quinoa-Stuffed%20Bell%20Peppers.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL1F1aW5vYS1TdHVmZmVkIEJlbGwgUGVwcGVycy5wbmciLCJpYXQiOjE3NTkyMjU5NjUsImV4cCI6NDkxMjgyNTk2NX0.Ok5sAIcTuyexXwi-W8PaXMA5BUQ2LcCdww-iCajqe4c",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:52:52.75992+00:00",
+              "description": "Bell peppers stuffed with quinoa, beans, corn, and cheese.",
+              "ingredients": [
+                "Bell peppers",
+                "Quinoa",
+                "Black beans",
+                "Corn",
+                "Onion",
+                "Cheese",
+                "Salsa"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Stuff peppers with quinoa mix.",
+                "Bake topped with cheese."
+              ]
+            }
+          },
+          "sunday": {
+            "dinner": {
+              "id": "6f05448a-b2ae-4682-aa57-6ddb0f252b83",
+              "fat": 16,
+              "name": "Eggplant Pizza Rounds",
+              "carbs": 11,
+              "fiber": 5,
+              "price": 32,
+              "rating": 2,
+              "protein": 18,
+              "calories": 280,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Eggplant%20Pizza%20Rounds.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0VnZ3BsYW50IFBpenphIFJvdW5kcy5wbmciLCJpYXQiOjE3NTkyMjY5MzcsImV4cCI6NDkxMjgyNjkzN30.hjF278JTO-z6-2X--ZgC5qjgGNOBpZhkOBiQBrsSp5k",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:09:08.420299+00:00",
+              "description": "Baked eggplant slices topped with tomato sauce and cheese.",
+              "ingredients": [
+                "1 eggplant (sliced)",
+                "Tomato sauce",
+                "Mozzarella",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast eggplant slices.",
+                "Top with sauce and cheese.",
+                "Bake 10 min."
+              ]
+            }
+          },
+          "tuesday": {
+            "lunch": {
+              "id": "749b7042-27e1-4c16-9b11-3632dc115a00",
+              "fat": 12,
+              "name": "Chickpea & Spinach Curry with Rice",
+              "carbs": 64,
+              "fiber": 12,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 490,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Chickpea%20&%20Spinach%20Curry%20with%20Rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvQ2hpY2twZWEgJiBTcGluYWNoIEN1cnJ5IHdpdGggUmljZS5wbmciLCJpYXQiOjE3NTc1ODk2MTQsImV4cCI6NDkxMTE4OTYxNH0.LsR5MRMCExx2D_kAYc47iMJsTA-zhRSbM6OKHtMdyP8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-17T07:33:54.888255+00:00",
+              "description": "Vegetarian chickpea curry served with rice.",
+              "ingredients": [
+                "Chickpeas",
+                "Spinach",
+                "Onion",
+                "Tomato",
+                "Curry spices",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook curry with chickpeas and spinach.",
+                "Serve with rice."
+              ]
+            },
+            "dinner": {
+              "id": "1c440dfd-96ec-4083-952e-2131593eb8e7",
+              "fat": 14,
+              "name": "Lentil & Spinach Curry with Brown Rice",
+              "carbs": 58,
+              "fiber": 11,
+              "price": 34,
+              "rating": 3,
+              "protein": 32,
+              "calories": 510,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Lentils%20with%20brown%20rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL0xlbnRpbHMgd2l0aCBicm93biByaWNlLnBuZyIsImlhdCI6MTc1OTIyNjE2NSwiZXhwIjo0OTEyODI2MTY1fQ.rUjdGwrWbpMzyVZRrWVQcjZ1KYK1KEGkVx1Pqq5B5cQ",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:56:19.91983+00:00",
+              "description": "Vegetarian curry with lentils, spinach, and coconut milk served with rice.",
+              "ingredients": [
+                "Lentils",
+                "Spinach",
+                "Onion",
+                "Garlic",
+                "Curry powder",
+                "Coconut milk",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Cook lentils with curry spices and coconut milk.",
+                "Stir in spinach.",
+                "Serve with rice."
+              ]
+            }
+          },
+          "saturday": {
+            "lunch": {
+              "id": "8ee502ba-b7a4-4f82-b801-288a2e073d35",
+              "fat": 26,
+              "name": "Avocado Egg Salad",
+              "carbs": 8,
+              "fiber": 4,
+              "price": 22,
+              "rating": 2,
+              "protein": 20,
+              "calories": 340,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Keto%20Lunch/Avocado%20Egg%20Salad.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvS2V0byBMdW5jaC9Bdm9jYWRvIEVnZyBTYWxhZC5wbmciLCJpYXQiOjE3NTkyMjU4ODksImV4cCI6NDkxMjgyNTg4OX0.pu6ym0ugPWybA_danP6Ca5Rin3AYINjt1Y_b6_zgZcM",
+              "prep_time": null,
+              "created_at": "2025-08-26T06:54:06.00811+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:51:36.968919+00:00",
+              "description": "Creamy egg salad with avocado and lemon.",
+              "ingredients": [
+                "Boiled eggs",
+                "Avocado",
+                "Lemon juice",
+                "Lettuce wrap"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Keto",
+                "Low Carb",
+                "Vegetarian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Mash avocado with lemon.",
+                "Mix with boiled eggs.",
+                "Serve in lettuce wrap."
+              ]
+            },
+            "dinner": {
+              "id": "f0abaa72-24f5-4a34-be6a-c255b9ef83b2",
+              "fat": 20,
+              "name": "Grilled Halloumi & Roasted Veggies",
+              "carbs": 14,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 24,
+              "calories": 370,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Grilled%20Halloumi%20&%20Roasted%20Veggies.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0dyaWxsZWQgSGFsbG91bWkgJiBSb2FzdGVkIFZlZ2dpZXMucG5nIiwiaWF0IjoxNzU5MjI5NzEzLCJleHAiOjQ5MTI4Mjk3MTN9.7sGALaygEesW7htFRUiDujlR3swkXhTY3gBDmmO9WHA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:55:20.742787+00:00",
+              "description": "Grilled halloumi served with roasted vegetables.",
+              "ingredients": [
+                "100g halloumi",
+                "100g zucchini",
+                "100g bell peppers",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast vegetables.",
+                "Grill halloumi.",
+                "Combine with olive oil drizzle."
+              ]
+            }
+          },
+          "thursday": {
+            "lunch": {
+              "id": "41c8f4bc-a188-420c-a43d-77b9e5008c3e",
+              "fat": 30,
+              "name": "Keto Grilled Cheese with Cauliflower Bread",
+              "carbs": 9,
+              "fiber": 3,
+              "price": 28,
+              "rating": 2,
+              "protein": 22,
+              "calories": 390,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Keto%20Lunch/Keto%20Grilled%20Cheese%20with%20Cauliflower%20Bread.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvS2V0byBMdW5jaC9LZXRvIEdyaWxsZWQgQ2hlZXNlIHdpdGggQ2F1bGlmbG93ZXIgQnJlYWQucG5nIiwiaWF0IjoxNzU5MjI4Njc1LCJleHAiOjQ5MTI4Mjg2NzV9.QVsoPDQ2qxMAEVveILrJIeRn-p3QNCG3LQ8Il9u8QZE",
+              "prep_time": null,
+              "created_at": "2025-08-26T06:54:06.00811+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:38:15.012638+00:00",
+              "description": "Low-carb grilled cheese made with cauliflower bread.",
+              "ingredients": [
+                "Cauliflower bread",
+                "Cheddar cheese",
+                "Butter"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Keto",
+                "Low Carb",
+                "Gluten-Free",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Assemble sandwich with cheese.",
+                "Grill until golden and melted."
+              ]
+            },
+            "dinner": {
+              "id": "a9956564-1238-48cc-ba5c-3edca57abcf0",
+              "fat": 14,
+              "name": "Veggie Stir-Fry with Tofu",
+              "carbs": 22,
+              "fiber": 6,
+              "price": 26,
+              "rating": 2,
+              "protein": 20,
+              "calories": 290,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Veggie%20Stir-Fry%20with%20Tofu.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9WZWdnaWUgU3Rpci1Gcnkgd2l0aCBUb2Z1LnBuZyIsImlhdCI6MTc1OTIyNjYxNywiZXhwIjo1MjU5NzIyNjE3fQ.pppuq98q0ABBZT0CnVawEPYwrdcHU3vfA8GgiVfhKl8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:03:45.681172+00:00",
+              "description": "Stir-fried tofu with broccoli, bell peppers, carrots, and sesame oil.",
+              "ingredients": [
+                "Tofu",
+                "Broccoli",
+                "Bell peppers",
+                "Carrots",
+                "Soy sauce",
+                "Ginger",
+                "Garlic",
+                "Sesame oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Asian"
+              ],
+              "instructions": [
+                "Sauté tofu and veggies with sauce.",
+                "Stir-fry 5 minutes."
+              ]
+            }
+          },
+          "wednesday": {
+            "lunch": {
+              "id": "fd92ef09-518d-4bbd-9d56-56cd7c6dd34e",
+              "fat": 9,
+              "name": "Lentil & Veggie Stew",
+              "carbs": 60,
+              "fiber": 15,
+              "price": 28,
+              "rating": 4,
+              "status": "preparing",
+              "protein": 22,
+              "calories": 430,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Lentil%20&%20Veggie%20Stew.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvTGVudGlsICYgVmVnZ2llIFN0ZXcucG5nIiwiaWF0IjoxNzU5MjI2NjQ2LCJleHAiOjE3Njc4NjY2NDZ9.NIfl1q4qlJbEGiteQCjxDg6ArHdgX_-TD10DvOsVQ1I",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:04:20.171509+00:00",
+              "description": "Hearty stew made with lentils and vegetables.",
+              "ingredients": [
+                "Lentils",
+                "Carrots",
+                "Celery",
+                "Onion",
+                "Tomato",
+                "Olive oil",
+                "Herbs"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Simmer lentils and vegetables until tender."
+              ],
+              "status_updated_at": "2025-10-08T18:17:23.653Z"
+            },
+            "dinner": {
+              "id": "749347e6-16d5-4526-96db-1a11df3d9034",
+              "fat": 18,
+              "name": "Spinach & Ricotta Stuffed Shells",
+              "carbs": 48,
+              "fiber": 6,
+              "price": 34,
+              "rating": 4,
+              "protein": 21,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Spinach%20&%20Ricotta%20Stuffed%20Shells.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9TcGluYWNoICYgUmljb3R0YSBTdHVmZmVkIFNoZWxscy5wbmciLCJpYXQiOjE3NTkyMjUxODYsImV4cCI6NDkxMjgyNTE4Nn0.C0tf7oI7YzrGZVPuN8KBrYmwZOWLzEzidSPazatTjW0",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:39:54.567248+00:00",
+              "description": "Baked pasta shells stuffed with ricotta and spinach, topped with cheese.",
+              "ingredients": [
+                "Pasta shells",
+                "Ricotta",
+                "Spinach",
+                "Parmesan",
+                "Marinara",
+                "Mozzarella"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "High Protein"
+              ],
+              "instructions": [
+                "Stuff shells with ricotta-spinach mix.",
+                "Bake with marinara and cheese."
+              ]
+            }
+          }
+        },
+        "week": 2,
+        "totalMeals": 13,
+        "fiveStarMeals": 0,
+        "mealsByCategory": {
+          "lunch": [
+            {
+              "id": "a6b8f3fd-cd69-4735-a642-d5d8b40f14b8",
+              "fat": 14,
+              "name": "Cottage Cheese & Lentil Bowl",
+              "carbs": 28,
+              "fiber": 8,
+              "price": 24,
+              "rating": 2,
+              "protein": 38,
+              "calories": 400,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Protein%20Boost%20Lunch/Cottage%20Cheese%20&%20Lentil%20Bowl.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvUHJvdGVpbiBCb29zdCBMdW5jaC9Db3R0YWdlIENoZWVzZSAmIExlbnRpbCBCb3dsLnBuZyIsImlhdCI6MTc1OTIyNjQ5MCwiZXhwIjo0OTEyODI2NDkwfQ.T-URtLBbzlChm8ifEfP1Oy86Ok9cG1ajdZarBFT9WrE",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:44:45.309577+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:01:36.727272+00:00",
+              "description": "Cottage cheese mixed with lentils, cucumber, and tomato.",
+              "ingredients": [
+                "Cottage cheese",
+                "Cooked lentils",
+                "Cucumber",
+                "Tomato",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Protein Boost",
+                "High Protein",
+                "Vegetarian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Mix cottage cheese with lentils and veggies.",
+                "Drizzle with olive oil."
+              ]
+            },
+            {
+              "id": "749b7042-27e1-4c16-9b11-3632dc115a00",
+              "fat": 12,
+              "name": "Chickpea & Spinach Curry with Rice",
+              "carbs": 64,
+              "fiber": 12,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 490,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Chickpea%20&%20Spinach%20Curry%20with%20Rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvQ2hpY2twZWEgJiBTcGluYWNoIEN1cnJ5IHdpdGggUmljZS5wbmciLCJpYXQiOjE3NTc1ODk2MTQsImV4cCI6NDkxMTE4OTYxNH0.LsR5MRMCExx2D_kAYc47iMJsTA-zhRSbM6OKHtMdyP8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-17T07:33:54.888255+00:00",
+              "description": "Vegetarian chickpea curry served with rice.",
+              "ingredients": [
+                "Chickpeas",
+                "Spinach",
+                "Onion",
+                "Tomato",
+                "Curry spices",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook curry with chickpeas and spinach.",
+                "Serve with rice."
+              ]
+            },
+            {
+              "id": "fd92ef09-518d-4bbd-9d56-56cd7c6dd34e",
+              "fat": 9,
+              "name": "Lentil & Veggie Stew",
+              "carbs": 60,
+              "fiber": 15,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 430,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Lentil%20&%20Veggie%20Stew.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvTGVudGlsICYgVmVnZ2llIFN0ZXcucG5nIiwiaWF0IjoxNzU5MjI2NjQ2LCJleHAiOjE3Njc4NjY2NDZ9.NIfl1q4qlJbEGiteQCjxDg6ArHdgX_-TD10DvOsVQ1I",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:04:20.171509+00:00",
+              "description": "Hearty stew made with lentils and vegetables.",
+              "ingredients": [
+                "Lentils",
+                "Carrots",
+                "Celery",
+                "Onion",
+                "Tomato",
+                "Olive oil",
+                "Herbs"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Simmer lentils and vegetables until tender."
+              ]
+            },
+            {
+              "id": "41c8f4bc-a188-420c-a43d-77b9e5008c3e",
+              "fat": 30,
+              "name": "Keto Grilled Cheese with Cauliflower Bread",
+              "carbs": 9,
+              "fiber": 3,
+              "price": 28,
+              "rating": 2,
+              "protein": 22,
+              "calories": 390,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Keto%20Lunch/Keto%20Grilled%20Cheese%20with%20Cauliflower%20Bread.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvS2V0byBMdW5jaC9LZXRvIEdyaWxsZWQgQ2hlZXNlIHdpdGggQ2F1bGlmbG93ZXIgQnJlYWQucG5nIiwiaWF0IjoxNzU5MjI4Njc1LCJleHAiOjQ5MTI4Mjg2NzV9.QVsoPDQ2qxMAEVveILrJIeRn-p3QNCG3LQ8Il9u8QZE",
+              "prep_time": null,
+              "created_at": "2025-08-26T06:54:06.00811+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:38:15.012638+00:00",
+              "description": "Low-carb grilled cheese made with cauliflower bread.",
+              "ingredients": [
+                "Cauliflower bread",
+                "Cheddar cheese",
+                "Butter"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Keto",
+                "Low Carb",
+                "Gluten-Free",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Assemble sandwich with cheese.",
+                "Grill until golden and melted."
+              ]
+            },
+            {
+              "id": "4c233c17-858b-4848-b34a-344a9da8b00e",
+              "fat": 20,
+              "name": "Grilled Halloumi with Zucchini & Tomato Salad",
+              "carbs": 12,
+              "fiber": 5,
+              "price": 30,
+              "rating": 3,
+              "protein": 22,
+              "calories": 340,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Lunch/Grilled%20Halloumi%20with%20Zucchini%20&%20Tomato%20Salad.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgTHVuY2gvR3JpbGxlZCBIYWxsb3VtaSB3aXRoIFp1Y2NoaW5pICYgVG9tYXRvIFNhbGFkLnBuZyIsImlhdCI6MTc1OTIyOTEyNywiZXhwIjo0OTEyODI5MTI3fQ.fNphy5b3i7dTLBBMsfbf-haKQfYuKVzQuOGaGAN7ou8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:33:38.115676+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:45:33.140498+00:00",
+              "description": "Grilled halloumi cheese with zucchini and tomato salad.",
+              "ingredients": [
+                "80g halloumi",
+                "100g zucchini",
+                "100g tomato",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Grill halloumi.",
+                "Mix with zucchini and tomato.",
+                "Serve fresh."
+              ]
+            },
+            {
+              "id": "8ee502ba-b7a4-4f82-b801-288a2e073d35",
+              "fat": 26,
+              "name": "Avocado Egg Salad",
+              "carbs": 8,
+              "fiber": 4,
+              "price": 22,
+              "rating": 2,
+              "protein": 20,
+              "calories": 340,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Keto%20Lunch/Avocado%20Egg%20Salad.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvS2V0byBMdW5jaC9Bdm9jYWRvIEVnZyBTYWxhZC5wbmciLCJpYXQiOjE3NTkyMjU4ODksImV4cCI6NDkxMjgyNTg4OX0.pu6ym0ugPWybA_danP6Ca5Rin3AYINjt1Y_b6_zgZcM",
+              "prep_time": null,
+              "created_at": "2025-08-26T06:54:06.00811+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:51:36.968919+00:00",
+              "description": "Creamy egg salad with avocado and lemon.",
+              "ingredients": [
+                "Boiled eggs",
+                "Avocado",
+                "Lemon juice",
+                "Lettuce wrap"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Keto",
+                "Low Carb",
+                "Vegetarian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Mash avocado with lemon.",
+                "Mix with boiled eggs.",
+                "Serve in lettuce wrap."
+              ]
+            }
+          ],
+          "dinner": [
+            {
+              "id": "93950d79-63e4-4ba4-a78d-94cfe8f7a8f5",
+              "fat": 14,
+              "name": "Quinoa-Stuffed Bell Peppers",
+              "carbs": 49,
+              "fiber": 10,
+              "price": 30,
+              "rating": 4,
+              "protein": 35,
+              "calories": 490,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Quinoa-Stuffed%20Bell%20Peppers.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL1F1aW5vYS1TdHVmZmVkIEJlbGwgUGVwcGVycy5wbmciLCJpYXQiOjE3NTkyMjU5NjUsImV4cCI6NDkxMjgyNTk2NX0.Ok5sAIcTuyexXwi-W8PaXMA5BUQ2LcCdww-iCajqe4c",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:52:52.75992+00:00",
+              "description": "Bell peppers stuffed with quinoa, beans, corn, and cheese.",
+              "ingredients": [
+                "Bell peppers",
+                "Quinoa",
+                "Black beans",
+                "Corn",
+                "Onion",
+                "Cheese",
+                "Salsa"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Stuff peppers with quinoa mix.",
+                "Bake topped with cheese."
+              ]
+            },
+            {
+              "id": "1c440dfd-96ec-4083-952e-2131593eb8e7",
+              "fat": 14,
+              "name": "Lentil & Spinach Curry with Brown Rice",
+              "carbs": 58,
+              "fiber": 11,
+              "price": 34,
+              "rating": 3,
+              "protein": 32,
+              "calories": 510,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Lentils%20with%20brown%20rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL0xlbnRpbHMgd2l0aCBicm93biByaWNlLnBuZyIsImlhdCI6MTc1OTIyNjE2NSwiZXhwIjo0OTEyODI2MTY1fQ.rUjdGwrWbpMzyVZRrWVQcjZ1KYK1KEGkVx1Pqq5B5cQ",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:56:19.91983+00:00",
+              "description": "Vegetarian curry with lentils, spinach, and coconut milk served with rice.",
+              "ingredients": [
+                "Lentils",
+                "Spinach",
+                "Onion",
+                "Garlic",
+                "Curry powder",
+                "Coconut milk",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Cook lentils with curry spices and coconut milk.",
+                "Stir in spinach.",
+                "Serve with rice."
+              ]
+            },
+            {
+              "id": "749347e6-16d5-4526-96db-1a11df3d9034",
+              "fat": 18,
+              "name": "Spinach & Ricotta Stuffed Shells",
+              "carbs": 48,
+              "fiber": 6,
+              "price": 34,
+              "rating": 4,
+              "protein": 21,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Spinach%20&%20Ricotta%20Stuffed%20Shells.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9TcGluYWNoICYgUmljb3R0YSBTdHVmZmVkIFNoZWxscy5wbmciLCJpYXQiOjE3NTkyMjUxODYsImV4cCI6NDkxMjgyNTE4Nn0.C0tf7oI7YzrGZVPuN8KBrYmwZOWLzEzidSPazatTjW0",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:39:54.567248+00:00",
+              "description": "Baked pasta shells stuffed with ricotta and spinach, topped with cheese.",
+              "ingredients": [
+                "Pasta shells",
+                "Ricotta",
+                "Spinach",
+                "Parmesan",
+                "Marinara",
+                "Mozzarella"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "High Protein"
+              ],
+              "instructions": [
+                "Stuff shells with ricotta-spinach mix.",
+                "Bake with marinara and cheese."
+              ]
+            },
+            {
+              "id": "a9956564-1238-48cc-ba5c-3edca57abcf0",
+              "fat": 14,
+              "name": "Veggie Stir-Fry with Tofu",
+              "carbs": 22,
+              "fiber": 6,
+              "price": 26,
+              "rating": 2,
+              "protein": 20,
+              "calories": 290,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Veggie%20Stir-Fry%20with%20Tofu.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9WZWdnaWUgU3Rpci1Gcnkgd2l0aCBUb2Z1LnBuZyIsImlhdCI6MTc1OTIyNjYxNywiZXhwIjo1MjU5NzIyNjE3fQ.pppuq98q0ABBZT0CnVawEPYwrdcHU3vfA8GgiVfhKl8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:03:45.681172+00:00",
+              "description": "Stir-fried tofu with broccoli, bell peppers, carrots, and sesame oil.",
+              "ingredients": [
+                "Tofu",
+                "Broccoli",
+                "Bell peppers",
+                "Carrots",
+                "Soy sauce",
+                "Ginger",
+                "Garlic",
+                "Sesame oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Asian"
+              ],
+              "instructions": [
+                "Sauté tofu and veggies with sauce.",
+                "Stir-fry 5 minutes."
+              ]
+            },
+            {
+              "id": "70146dd9-d147-4232-b6ec-b017e8708030",
+              "fat": 22,
+              "name": "Broccoli & Cheese Casserole",
+              "carbs": 28,
+              "fiber": 7,
+              "price": 33,
+              "rating": 3,
+              "protein": 20,
+              "calories": 390,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Broccoli%20&%20Cheese%20Casserole.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9Ccm9jY29saSAmIENoZWVzZSBDYXNzZXJvbGUucG5nIiwiaWF0IjoxNzU5MjI3MDIzLCJleHAiOjE3Njc4NjcwMjN9.gmrKShwA0CMbWOqbp8tY5yWFCXRFcBD0bq9Pt-6P-no",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:10:30.389071+00:00",
+              "description": "Casserole with broccoli, cheese, eggs, and breadcrumbs.",
+              "ingredients": [
+                "Broccoli",
+                "Cheddar",
+                "Onion",
+                "Garlic",
+                "Eggs",
+                "Breadcrumbs",
+                "Milk"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Comfort Food"
+              ],
+              "instructions": [
+                "Steam broccoli.",
+                "Mix with cheese",
+                "eggs",
+                "and breadcrumbs.",
+                "Bake until golden."
+              ]
+            },
+            {
+              "id": "f0abaa72-24f5-4a34-be6a-c255b9ef83b2",
+              "fat": 20,
+              "name": "Grilled Halloumi & Roasted Veggies",
+              "carbs": 14,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 24,
+              "calories": 370,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Grilled%20Halloumi%20&%20Roasted%20Veggies.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0dyaWxsZWQgSGFsbG91bWkgJiBSb2FzdGVkIFZlZ2dpZXMucG5nIiwiaWF0IjoxNzU5MjI5NzEzLCJleHAiOjQ5MTI4Mjk3MTN9.7sGALaygEesW7htFRUiDujlR3swkXhTY3gBDmmO9WHA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:55:20.742787+00:00",
+              "description": "Grilled halloumi served with roasted vegetables.",
+              "ingredients": [
+                "100g halloumi",
+                "100g zucchini",
+                "100g bell peppers",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast vegetables.",
+                "Grill halloumi.",
+                "Combine with olive oil drizzle."
+              ]
+            },
+            {
+              "id": "6f05448a-b2ae-4682-aa57-6ddb0f252b83",
+              "fat": 16,
+              "name": "Eggplant Pizza Rounds",
+              "carbs": 11,
+              "fiber": 5,
+              "price": 32,
+              "rating": 2,
+              "protein": 18,
+              "calories": 280,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Eggplant%20Pizza%20Rounds.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0VnZ3BsYW50IFBpenphIFJvdW5kcy5wbmciLCJpYXQiOjE3NTkyMjY5MzcsImV4cCI6NDkxMjgyNjkzN30.hjF278JTO-z6-2X--ZgC5qjgGNOBpZhkOBiQBrsSp5k",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:09:08.420299+00:00",
+              "description": "Baked eggplant slices topped with tomato sauce and cheese.",
+              "ingredients": [
+                "1 eggplant (sliced)",
+                "Tomato sauce",
+                "Mozzarella",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast eggplant slices.",
+                "Top with sauce and cheese.",
+                "Bake 10 min."
+              ]
+            }
+          ],
+          "snacks": [],
+          "breakfast": []
+        }
+      },
+      {
+        "days": {
+          "friday": {
+            "dinner": {
+              "id": "7443f000-7cf7-4829-bc28-2d403fd275c2",
+              "fat": 12,
+              "name": "Vegetable Paella",
+              "carbs": 58,
+              "fiber": 8,
+              "price": 30,
+              "rating": 4,
+              "protein": 10,
+              "calories": 380,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Vegetable%20Paella.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9WZWdldGFibGUgUGFlbGxhLnBuZyIsImlhdCI6MTc1OTIyNTAxNCwiZXhwIjo1MjU5NzIxMDE0fQ.iMzhfKk88-ds2dzv47LDYoctdE_FgtPaOndzrjuZqFs",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:37:02.620192+00:00",
+              "description": "Spanish-style paella with rice, peppers, peas, and saffron.",
+              "ingredients": [
+                "Arborio rice",
+                "Bell peppers",
+                "Peas",
+                "Artichokes",
+                "Onion",
+                "Garlic",
+                "Saffron",
+                "Paprika"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Spanish",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook onion and garlic.",
+                "Add rice and spices.",
+                "Simmer with broth and vegetables."
+              ]
+            }
+          },
+          "monday": {
+            "lunch": {
+              "id": "fd92ef09-518d-4bbd-9d56-56cd7c6dd34e",
+              "fat": 9,
+              "name": "Lentil & Veggie Stew",
+              "carbs": 60,
+              "fiber": 15,
+              "price": 28,
+              "rating": 4,
+              "status": "preparing",
+              "protein": 22,
+              "calories": 430,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Lentil%20&%20Veggie%20Stew.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvTGVudGlsICYgVmVnZ2llIFN0ZXcucG5nIiwiaWF0IjoxNzU5MjI2NjQ2LCJleHAiOjE3Njc4NjY2NDZ9.NIfl1q4qlJbEGiteQCjxDg6ArHdgX_-TD10DvOsVQ1I",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:04:20.171509+00:00",
+              "description": "Hearty stew made with lentils and vegetables.",
+              "ingredients": [
+                "Lentils",
+                "Carrots",
+                "Celery",
+                "Onion",
+                "Tomato",
+                "Olive oil",
+                "Herbs"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Simmer lentils and vegetables until tender."
+              ],
+              "status_updated_at": "2025-10-08T18:17:23.721Z"
+            },
+            "dinner": {
+              "id": "749347e6-16d5-4526-96db-1a11df3d9034",
+              "fat": 18,
+              "name": "Spinach & Ricotta Stuffed Shells",
+              "carbs": 48,
+              "fiber": 6,
+              "price": 34,
+              "rating": 4,
+              "protein": 21,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Spinach%20&%20Ricotta%20Stuffed%20Shells.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9TcGluYWNoICYgUmljb3R0YSBTdHVmZmVkIFNoZWxscy5wbmciLCJpYXQiOjE3NTkyMjUxODYsImV4cCI6NDkxMjgyNTE4Nn0.C0tf7oI7YzrGZVPuN8KBrYmwZOWLzEzidSPazatTjW0",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:39:54.567248+00:00",
+              "description": "Baked pasta shells stuffed with ricotta and spinach, topped with cheese.",
+              "ingredients": [
+                "Pasta shells",
+                "Ricotta",
+                "Spinach",
+                "Parmesan",
+                "Marinara",
+                "Mozzarella"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "High Protein"
+              ],
+              "instructions": [
+                "Stuff shells with ricotta-spinach mix.",
+                "Bake with marinara and cheese."
+              ]
+            }
+          },
+          "sunday": {
+            "dinner": {
+              "id": "a7dc8e3c-832f-4866-bd16-0c80f5317f11",
+              "fat": 26,
+              "name": "Paneer Butter Masala (Light)",
+              "carbs": 18,
+              "fiber": 4,
+              "price": 30,
+              "rating": 4,
+              "protein": 16,
+              "calories": 380,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Paneer%20Butter%20Masala%20(Light).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9QYW5lZXIgQnV0dGVyIE1hc2FsYSAoTGlnaHQpLnBuZyIsImlhdCI6MTc1OTIyNjU2NCwiZXhwIjo1MjU5NzIyNTY0fQ.CEGOsdI_bQwohpdBTNp15g9e9eMqRnp8pd1Bm85lKDA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:02:50.981833+00:00",
+              "description": "Paneer cubes simmered in a spiced tomato-onion sauce with yogurt.",
+              "ingredients": [
+                "Paneer",
+                "Tomato puree",
+                "Onion",
+                "Garlic",
+                "Ginger",
+                "Cashews",
+                "Yogurt",
+                "Garam masala",
+                "Turmeric",
+                "Chili powder"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Indian"
+              ],
+              "instructions": [
+                "Cook onion",
+                "garlic",
+                "and tomatoes with spices.",
+                "Blend smooth.",
+                "Add paneer cubes and simmer."
+              ]
+            }
+          },
+          "tuesday": {
+            "lunch": {
+              "id": "749b7042-27e1-4c16-9b11-3632dc115a00",
+              "fat": 12,
+              "name": "Chickpea & Spinach Curry with Rice",
+              "carbs": 64,
+              "fiber": 12,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 490,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Chickpea%20&%20Spinach%20Curry%20with%20Rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvQ2hpY2twZWEgJiBTcGluYWNoIEN1cnJ5IHdpdGggUmljZS5wbmciLCJpYXQiOjE3NTc1ODk2MTQsImV4cCI6NDkxMTE4OTYxNH0.LsR5MRMCExx2D_kAYc47iMJsTA-zhRSbM6OKHtMdyP8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-17T07:33:54.888255+00:00",
+              "description": "Vegetarian chickpea curry served with rice.",
+              "ingredients": [
+                "Chickpeas",
+                "Spinach",
+                "Onion",
+                "Tomato",
+                "Curry spices",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook curry with chickpeas and spinach.",
+                "Serve with rice."
+              ]
+            },
+            "dinner": {
+              "id": "f0abaa72-24f5-4a34-be6a-c255b9ef83b2",
+              "fat": 20,
+              "name": "Grilled Halloumi & Roasted Veggies",
+              "carbs": 14,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 24,
+              "calories": 370,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Grilled%20Halloumi%20&%20Roasted%20Veggies.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0dyaWxsZWQgSGFsbG91bWkgJiBSb2FzdGVkIFZlZ2dpZXMucG5nIiwiaWF0IjoxNzU5MjI5NzEzLCJleHAiOjQ5MTI4Mjk3MTN9.7sGALaygEesW7htFRUiDujlR3swkXhTY3gBDmmO9WHA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:55:20.742787+00:00",
+              "description": "Grilled halloumi served with roasted vegetables.",
+              "ingredients": [
+                "100g halloumi",
+                "100g zucchini",
+                "100g bell peppers",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast vegetables.",
+                "Grill halloumi.",
+                "Combine with olive oil drizzle."
+              ]
+            }
+          },
+          "saturday": {
+            "dinner": {
+              "id": "8715b4d0-85f2-4caa-8582-576eedc50db2",
+              "fat": 19,
+              "name": "Thai Green Curry with Vegetables",
+              "carbs": 28,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 8,
+              "calories": 310,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Thai%20Green%20Curry%20with%20Vegetables.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9UaGFpIEdyZWVuIEN1cnJ5IHdpdGggVmVnZXRhYmxlcy5wbmciLCJpYXQiOjE3NTkyMjU4MjIsImV4cCI6NDkxMjgyNTgyMn0.RGVHhbzw0ie-Hbnujeep3cy500u3dnCj-FYvy_l0tiU",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:50:29.359915+00:00",
+              "description": "Vegetables simmered in coconut milk and green curry paste.",
+              "ingredients": [
+                "Zucchini",
+                "Bell peppers",
+                "Broccoli",
+                "Carrots",
+                "Coconut milk",
+                "Thai curry paste",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Asian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Cook curry paste with coconut milk.",
+                "Add vegetables.",
+                "Simmer until tender."
+              ]
+            }
+          },
+          "thursday": {
+            "dinner": {
+              "id": "e00c7089-c2c9-4038-b6c0-daf611a44342",
+              "fat": 22,
+              "name": "Eggplant Parmesan (Baked)",
+              "carbs": 36,
+              "fiber": 7,
+              "price": 30,
+              "rating": 4,
+              "protein": 18,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Eggplant%20Parmesan%20(Baked).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9FZ2dwbGFudCBQYXJtZXNhbiAoQmFrZWQpLnBuZyIsImlhdCI6MTc1OTIyNzY5OSwiZXhwIjo1MjU5NzIzNjk5fQ.gtgH0bxdc8Nq2kJaTJ5zl6jrlRStaNudorczUAm2VrA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:21:42.122992+00:00",
+              "description": "Baked eggplant layered with marinara, mozzarella, and parmesan.",
+              "ingredients": [
+                "Eggplant",
+                "Marinara sauce",
+                "Mozzarella",
+                "Parmesan",
+                "Breadcrumbs",
+                "Olive oil",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "Comfort Food"
+              ],
+              "instructions": [
+                "Bake eggplant slices.",
+                "Layer with sauce and cheese.",
+                "Bake until golden."
+              ]
+            }
+          },
+          "wednesday": {
+            "dinner": {
+              "id": "93950d79-63e4-4ba4-a78d-94cfe8f7a8f5",
+              "fat": 14,
+              "name": "Quinoa-Stuffed Bell Peppers",
+              "carbs": 49,
+              "fiber": 10,
+              "price": 30,
+              "rating": 4,
+              "protein": 35,
+              "calories": 490,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Quinoa-Stuffed%20Bell%20Peppers.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL1F1aW5vYS1TdHVmZmVkIEJlbGwgUGVwcGVycy5wbmciLCJpYXQiOjE3NTkyMjU5NjUsImV4cCI6NDkxMjgyNTk2NX0.Ok5sAIcTuyexXwi-W8PaXMA5BUQ2LcCdww-iCajqe4c",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:52:52.75992+00:00",
+              "description": "Bell peppers stuffed with quinoa, beans, corn, and cheese.",
+              "ingredients": [
+                "Bell peppers",
+                "Quinoa",
+                "Black beans",
+                "Corn",
+                "Onion",
+                "Cheese",
+                "Salsa"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Stuff peppers with quinoa mix.",
+                "Bake topped with cheese."
+              ]
+            }
+          }
+        },
+        "week": 3,
+        "totalMeals": 9,
+        "fiveStarMeals": 0,
+        "mealsByCategory": {
+          "lunch": [
+            {
+              "id": "fd92ef09-518d-4bbd-9d56-56cd7c6dd34e",
+              "fat": 9,
+              "name": "Lentil & Veggie Stew",
+              "carbs": 60,
+              "fiber": 15,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 430,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Lentil%20&%20Veggie%20Stew.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvTGVudGlsICYgVmVnZ2llIFN0ZXcucG5nIiwiaWF0IjoxNzU5MjI2NjQ2LCJleHAiOjE3Njc4NjY2NDZ9.NIfl1q4qlJbEGiteQCjxDg6ArHdgX_-TD10DvOsVQ1I",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:04:20.171509+00:00",
+              "description": "Hearty stew made with lentils and vegetables.",
+              "ingredients": [
+                "Lentils",
+                "Carrots",
+                "Celery",
+                "Onion",
+                "Tomato",
+                "Olive oil",
+                "Herbs"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Simmer lentils and vegetables until tender."
+              ]
+            },
+            {
+              "id": "749b7042-27e1-4c16-9b11-3632dc115a00",
+              "fat": 12,
+              "name": "Chickpea & Spinach Curry with Rice",
+              "carbs": 64,
+              "fiber": 12,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 490,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Chickpea%20&%20Spinach%20Curry%20with%20Rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvQ2hpY2twZWEgJiBTcGluYWNoIEN1cnJ5IHdpdGggUmljZS5wbmciLCJpYXQiOjE3NTc1ODk2MTQsImV4cCI6NDkxMTE4OTYxNH0.LsR5MRMCExx2D_kAYc47iMJsTA-zhRSbM6OKHtMdyP8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-17T07:33:54.888255+00:00",
+              "description": "Vegetarian chickpea curry served with rice.",
+              "ingredients": [
+                "Chickpeas",
+                "Spinach",
+                "Onion",
+                "Tomato",
+                "Curry spices",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook curry with chickpeas and spinach.",
+                "Serve with rice."
+              ]
+            }
+          ],
+          "dinner": [
+            {
+              "id": "749347e6-16d5-4526-96db-1a11df3d9034",
+              "fat": 18,
+              "name": "Spinach & Ricotta Stuffed Shells",
+              "carbs": 48,
+              "fiber": 6,
+              "price": 34,
+              "rating": 4,
+              "protein": 21,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Spinach%20&%20Ricotta%20Stuffed%20Shells.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9TcGluYWNoICYgUmljb3R0YSBTdHVmZmVkIFNoZWxscy5wbmciLCJpYXQiOjE3NTkyMjUxODYsImV4cCI6NDkxMjgyNTE4Nn0.C0tf7oI7YzrGZVPuN8KBrYmwZOWLzEzidSPazatTjW0",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:39:54.567248+00:00",
+              "description": "Baked pasta shells stuffed with ricotta and spinach, topped with cheese.",
+              "ingredients": [
+                "Pasta shells",
+                "Ricotta",
+                "Spinach",
+                "Parmesan",
+                "Marinara",
+                "Mozzarella"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "High Protein"
+              ],
+              "instructions": [
+                "Stuff shells with ricotta-spinach mix.",
+                "Bake with marinara and cheese."
+              ]
+            },
+            {
+              "id": "f0abaa72-24f5-4a34-be6a-c255b9ef83b2",
+              "fat": 20,
+              "name": "Grilled Halloumi & Roasted Veggies",
+              "carbs": 14,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 24,
+              "calories": 370,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Grilled%20Halloumi%20&%20Roasted%20Veggies.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0dyaWxsZWQgSGFsbG91bWkgJiBSb2FzdGVkIFZlZ2dpZXMucG5nIiwiaWF0IjoxNzU5MjI5NzEzLCJleHAiOjQ5MTI4Mjk3MTN9.7sGALaygEesW7htFRUiDujlR3swkXhTY3gBDmmO9WHA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:55:20.742787+00:00",
+              "description": "Grilled halloumi served with roasted vegetables.",
+              "ingredients": [
+                "100g halloumi",
+                "100g zucchini",
+                "100g bell peppers",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast vegetables.",
+                "Grill halloumi.",
+                "Combine with olive oil drizzle."
+              ]
+            },
+            {
+              "id": "93950d79-63e4-4ba4-a78d-94cfe8f7a8f5",
+              "fat": 14,
+              "name": "Quinoa-Stuffed Bell Peppers",
+              "carbs": 49,
+              "fiber": 10,
+              "price": 30,
+              "rating": 4,
+              "protein": 35,
+              "calories": 490,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Quinoa-Stuffed%20Bell%20Peppers.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL1F1aW5vYS1TdHVmZmVkIEJlbGwgUGVwcGVycy5wbmciLCJpYXQiOjE3NTkyMjU5NjUsImV4cCI6NDkxMjgyNTk2NX0.Ok5sAIcTuyexXwi-W8PaXMA5BUQ2LcCdww-iCajqe4c",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:52:52.75992+00:00",
+              "description": "Bell peppers stuffed with quinoa, beans, corn, and cheese.",
+              "ingredients": [
+                "Bell peppers",
+                "Quinoa",
+                "Black beans",
+                "Corn",
+                "Onion",
+                "Cheese",
+                "Salsa"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Stuff peppers with quinoa mix.",
+                "Bake topped with cheese."
+              ]
+            },
+            {
+              "id": "e00c7089-c2c9-4038-b6c0-daf611a44342",
+              "fat": 22,
+              "name": "Eggplant Parmesan (Baked)",
+              "carbs": 36,
+              "fiber": 7,
+              "price": 30,
+              "rating": 4,
+              "protein": 18,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Eggplant%20Parmesan%20(Baked).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9FZ2dwbGFudCBQYXJtZXNhbiAoQmFrZWQpLnBuZyIsImlhdCI6MTc1OTIyNzY5OSwiZXhwIjo1MjU5NzIzNjk5fQ.gtgH0bxdc8Nq2kJaTJ5zl6jrlRStaNudorczUAm2VrA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:21:42.122992+00:00",
+              "description": "Baked eggplant layered with marinara, mozzarella, and parmesan.",
+              "ingredients": [
+                "Eggplant",
+                "Marinara sauce",
+                "Mozzarella",
+                "Parmesan",
+                "Breadcrumbs",
+                "Olive oil",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "Comfort Food"
+              ],
+              "instructions": [
+                "Bake eggplant slices.",
+                "Layer with sauce and cheese.",
+                "Bake until golden."
+              ]
+            },
+            {
+              "id": "7443f000-7cf7-4829-bc28-2d403fd275c2",
+              "fat": 12,
+              "name": "Vegetable Paella",
+              "carbs": 58,
+              "fiber": 8,
+              "price": 30,
+              "rating": 4,
+              "protein": 10,
+              "calories": 380,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Vegetable%20Paella.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9WZWdldGFibGUgUGFlbGxhLnBuZyIsImlhdCI6MTc1OTIyNTAxNCwiZXhwIjo1MjU5NzIxMDE0fQ.iMzhfKk88-ds2dzv47LDYoctdE_FgtPaOndzrjuZqFs",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:37:02.620192+00:00",
+              "description": "Spanish-style paella with rice, peppers, peas, and saffron.",
+              "ingredients": [
+                "Arborio rice",
+                "Bell peppers",
+                "Peas",
+                "Artichokes",
+                "Onion",
+                "Garlic",
+                "Saffron",
+                "Paprika"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Spanish",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook onion and garlic.",
+                "Add rice and spices.",
+                "Simmer with broth and vegetables."
+              ]
+            },
+            {
+              "id": "8715b4d0-85f2-4caa-8582-576eedc50db2",
+              "fat": 19,
+              "name": "Thai Green Curry with Vegetables",
+              "carbs": 28,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 8,
+              "calories": 310,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Thai%20Green%20Curry%20with%20Vegetables.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9UaGFpIEdyZWVuIEN1cnJ5IHdpdGggVmVnZXRhYmxlcy5wbmciLCJpYXQiOjE3NTkyMjU4MjIsImV4cCI6NDkxMjgyNTgyMn0.RGVHhbzw0ie-Hbnujeep3cy500u3dnCj-FYvy_l0tiU",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:50:29.359915+00:00",
+              "description": "Vegetables simmered in coconut milk and green curry paste.",
+              "ingredients": [
+                "Zucchini",
+                "Bell peppers",
+                "Broccoli",
+                "Carrots",
+                "Coconut milk",
+                "Thai curry paste",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Asian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Cook curry paste with coconut milk.",
+                "Add vegetables.",
+                "Simmer until tender."
+              ]
+            },
+            {
+              "id": "a7dc8e3c-832f-4866-bd16-0c80f5317f11",
+              "fat": 26,
+              "name": "Paneer Butter Masala (Light)",
+              "carbs": 18,
+              "fiber": 4,
+              "price": 30,
+              "rating": 4,
+              "protein": 16,
+              "calories": 380,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Paneer%20Butter%20Masala%20(Light).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9QYW5lZXIgQnV0dGVyIE1hc2FsYSAoTGlnaHQpLnBuZyIsImlhdCI6MTc1OTIyNjU2NCwiZXhwIjo1MjU5NzIyNTY0fQ.CEGOsdI_bQwohpdBTNp15g9e9eMqRnp8pd1Bm85lKDA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:02:50.981833+00:00",
+              "description": "Paneer cubes simmered in a spiced tomato-onion sauce with yogurt.",
+              "ingredients": [
+                "Paneer",
+                "Tomato puree",
+                "Onion",
+                "Garlic",
+                "Ginger",
+                "Cashews",
+                "Yogurt",
+                "Garam masala",
+                "Turmeric",
+                "Chili powder"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Indian"
+              ],
+              "instructions": [
+                "Cook onion",
+                "garlic",
+                "and tomatoes with spices.",
+                "Blend smooth.",
+                "Add paneer cubes and simmer."
+              ]
+            }
+          ],
+          "snacks": [],
+          "breakfast": []
+        }
+      },
+      {
+        "days": {
+          "friday": {
+            "lunch": {
+              "id": "8ee502ba-b7a4-4f82-b801-288a2e073d35",
+              "fat": 26,
+              "name": "Avocado Egg Salad",
+              "carbs": 8,
+              "fiber": 4,
+              "price": 22,
+              "rating": 2,
+              "protein": 20,
+              "calories": 340,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Keto%20Lunch/Avocado%20Egg%20Salad.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvS2V0byBMdW5jaC9Bdm9jYWRvIEVnZyBTYWxhZC5wbmciLCJpYXQiOjE3NTkyMjU4ODksImV4cCI6NDkxMjgyNTg4OX0.pu6ym0ugPWybA_danP6Ca5Rin3AYINjt1Y_b6_zgZcM",
+              "prep_time": null,
+              "created_at": "2025-08-26T06:54:06.00811+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:51:36.968919+00:00",
+              "description": "Creamy egg salad with avocado and lemon.",
+              "ingredients": [
+                "Boiled eggs",
+                "Avocado",
+                "Lemon juice",
+                "Lettuce wrap"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Keto",
+                "Low Carb",
+                "Vegetarian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Mash avocado with lemon.",
+                "Mix with boiled eggs.",
+                "Serve in lettuce wrap."
+              ]
+            },
+            "dinner": {
+              "id": "a9956564-1238-48cc-ba5c-3edca57abcf0",
+              "fat": 14,
+              "name": "Veggie Stir-Fry with Tofu",
+              "carbs": 22,
+              "fiber": 6,
+              "price": 26,
+              "rating": 2,
+              "protein": 20,
+              "calories": 290,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Veggie%20Stir-Fry%20with%20Tofu.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9WZWdnaWUgU3Rpci1Gcnkgd2l0aCBUb2Z1LnBuZyIsImlhdCI6MTc1OTIyNjYxNywiZXhwIjo1MjU5NzIyNjE3fQ.pppuq98q0ABBZT0CnVawEPYwrdcHU3vfA8GgiVfhKl8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:03:45.681172+00:00",
+              "description": "Stir-fried tofu with broccoli, bell peppers, carrots, and sesame oil.",
+              "ingredients": [
+                "Tofu",
+                "Broccoli",
+                "Bell peppers",
+                "Carrots",
+                "Soy sauce",
+                "Ginger",
+                "Garlic",
+                "Sesame oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Asian"
+              ],
+              "instructions": [
+                "Sauté tofu and veggies with sauce.",
+                "Stir-fry 5 minutes."
+              ]
+            }
+          },
+          "monday": {
+            "lunch": {
+              "id": "749b7042-27e1-4c16-9b11-3632dc115a00",
+              "fat": 12,
+              "name": "Chickpea & Spinach Curry with Rice",
+              "carbs": 64,
+              "fiber": 12,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 490,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Chickpea%20&%20Spinach%20Curry%20with%20Rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvQ2hpY2twZWEgJiBTcGluYWNoIEN1cnJ5IHdpdGggUmljZS5wbmciLCJpYXQiOjE3NTc1ODk2MTQsImV4cCI6NDkxMTE4OTYxNH0.LsR5MRMCExx2D_kAYc47iMJsTA-zhRSbM6OKHtMdyP8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-17T07:33:54.888255+00:00",
+              "description": "Vegetarian chickpea curry served with rice.",
+              "ingredients": [
+                "Chickpeas",
+                "Spinach",
+                "Onion",
+                "Tomato",
+                "Curry spices",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook curry with chickpeas and spinach.",
+                "Serve with rice."
+              ]
+            },
+            "dinner": {
+              "id": "f0abaa72-24f5-4a34-be6a-c255b9ef83b2",
+              "fat": 20,
+              "name": "Grilled Halloumi & Roasted Veggies",
+              "carbs": 14,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 24,
+              "calories": 370,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Grilled%20Halloumi%20&%20Roasted%20Veggies.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0dyaWxsZWQgSGFsbG91bWkgJiBSb2FzdGVkIFZlZ2dpZXMucG5nIiwiaWF0IjoxNzU5MjI5NzEzLCJleHAiOjQ5MTI4Mjk3MTN9.7sGALaygEesW7htFRUiDujlR3swkXhTY3gBDmmO9WHA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:55:20.742787+00:00",
+              "description": "Grilled halloumi served with roasted vegetables.",
+              "ingredients": [
+                "100g halloumi",
+                "100g zucchini",
+                "100g bell peppers",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast vegetables.",
+                "Grill halloumi.",
+                "Combine with olive oil drizzle."
+              ]
+            }
+          },
+          "sunday": {
+            "dinner": {
+              "id": "6f05448a-b2ae-4682-aa57-6ddb0f252b83",
+              "fat": 16,
+              "name": "Eggplant Pizza Rounds",
+              "carbs": 11,
+              "fiber": 5,
+              "price": 32,
+              "rating": 2,
+              "protein": 18,
+              "calories": 280,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Eggplant%20Pizza%20Rounds.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0VnZ3BsYW50IFBpenphIFJvdW5kcy5wbmciLCJpYXQiOjE3NTkyMjY5MzcsImV4cCI6NDkxMjgyNjkzN30.hjF278JTO-z6-2X--ZgC5qjgGNOBpZhkOBiQBrsSp5k",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:09:08.420299+00:00",
+              "description": "Baked eggplant slices topped with tomato sauce and cheese.",
+              "ingredients": [
+                "1 eggplant (sliced)",
+                "Tomato sauce",
+                "Mozzarella",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast eggplant slices.",
+                "Top with sauce and cheese.",
+                "Bake 10 min."
+              ]
+            }
+          },
+          "tuesday": {
+            "lunch": {
+              "id": "fd92ef09-518d-4bbd-9d56-56cd7c6dd34e",
+              "fat": 9,
+              "name": "Lentil & Veggie Stew",
+              "carbs": 60,
+              "fiber": 15,
+              "price": 28,
+              "rating": 4,
+              "status": "preparing",
+              "protein": 22,
+              "calories": 430,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Lentil%20&%20Veggie%20Stew.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvTGVudGlsICYgVmVnZ2llIFN0ZXcucG5nIiwiaWF0IjoxNzU5MjI2NjQ2LCJleHAiOjE3Njc4NjY2NDZ9.NIfl1q4qlJbEGiteQCjxDg6ArHdgX_-TD10DvOsVQ1I",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:04:20.171509+00:00",
+              "description": "Hearty stew made with lentils and vegetables.",
+              "ingredients": [
+                "Lentils",
+                "Carrots",
+                "Celery",
+                "Onion",
+                "Tomato",
+                "Olive oil",
+                "Herbs"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Simmer lentils and vegetables until tender."
+              ],
+              "status_updated_at": "2025-10-08T18:17:23.797Z"
+            },
+            "dinner": {
+              "id": "1c440dfd-96ec-4083-952e-2131593eb8e7",
+              "fat": 14,
+              "name": "Lentil & Spinach Curry with Brown Rice",
+              "carbs": 58,
+              "fiber": 11,
+              "price": 34,
+              "rating": 3,
+              "protein": 32,
+              "calories": 510,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Lentils%20with%20brown%20rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL0xlbnRpbHMgd2l0aCBicm93biByaWNlLnBuZyIsImlhdCI6MTc1OTIyNjE2NSwiZXhwIjo0OTEyODI2MTY1fQ.rUjdGwrWbpMzyVZRrWVQcjZ1KYK1KEGkVx1Pqq5B5cQ",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:56:19.91983+00:00",
+              "description": "Vegetarian curry with lentils, spinach, and coconut milk served with rice.",
+              "ingredients": [
+                "Lentils",
+                "Spinach",
+                "Onion",
+                "Garlic",
+                "Curry powder",
+                "Coconut milk",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Cook lentils with curry spices and coconut milk.",
+                "Stir in spinach.",
+                "Serve with rice."
+              ]
+            }
+          },
+          "saturday": {
+            "lunch": {
+              "id": "41c8f4bc-a188-420c-a43d-77b9e5008c3e",
+              "fat": 30,
+              "name": "Keto Grilled Cheese with Cauliflower Bread",
+              "carbs": 9,
+              "fiber": 3,
+              "price": 28,
+              "rating": 2,
+              "protein": 22,
+              "calories": 390,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Keto%20Lunch/Keto%20Grilled%20Cheese%20with%20Cauliflower%20Bread.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvS2V0byBMdW5jaC9LZXRvIEdyaWxsZWQgQ2hlZXNlIHdpdGggQ2F1bGlmbG93ZXIgQnJlYWQucG5nIiwiaWF0IjoxNzU5MjI4Njc1LCJleHAiOjQ5MTI4Mjg2NzV9.QVsoPDQ2qxMAEVveILrJIeRn-p3QNCG3LQ8Il9u8QZE",
+              "prep_time": null,
+              "created_at": "2025-08-26T06:54:06.00811+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:38:15.012638+00:00",
+              "description": "Low-carb grilled cheese made with cauliflower bread.",
+              "ingredients": [
+                "Cauliflower bread",
+                "Cheddar cheese",
+                "Butter"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Keto",
+                "Low Carb",
+                "Gluten-Free",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Assemble sandwich with cheese.",
+                "Grill until golden and melted."
+              ]
+            },
+            "dinner": {
+              "id": "70146dd9-d147-4232-b6ec-b017e8708030",
+              "fat": 22,
+              "name": "Broccoli & Cheese Casserole",
+              "carbs": 28,
+              "fiber": 7,
+              "price": 33,
+              "rating": 3,
+              "protein": 20,
+              "calories": 390,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Broccoli%20&%20Cheese%20Casserole.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9Ccm9jY29saSAmIENoZWVzZSBDYXNzZXJvbGUucG5nIiwiaWF0IjoxNzU5MjI3MDIzLCJleHAiOjE3Njc4NjcwMjN9.gmrKShwA0CMbWOqbp8tY5yWFCXRFcBD0bq9Pt-6P-no",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:10:30.389071+00:00",
+              "description": "Casserole with broccoli, cheese, eggs, and breadcrumbs.",
+              "ingredients": [
+                "Broccoli",
+                "Cheddar",
+                "Onion",
+                "Garlic",
+                "Eggs",
+                "Breadcrumbs",
+                "Milk"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Comfort Food"
+              ],
+              "instructions": [
+                "Steam broccoli.",
+                "Mix with cheese",
+                "eggs",
+                "and breadcrumbs.",
+                "Bake until golden."
+              ]
+            }
+          },
+          "thursday": {
+            "lunch": {
+              "id": "4c233c17-858b-4848-b34a-344a9da8b00e",
+              "fat": 20,
+              "name": "Grilled Halloumi with Zucchini & Tomato Salad",
+              "carbs": 12,
+              "fiber": 5,
+              "price": 30,
+              "rating": 3,
+              "protein": 22,
+              "calories": 340,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Lunch/Grilled%20Halloumi%20with%20Zucchini%20&%20Tomato%20Salad.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgTHVuY2gvR3JpbGxlZCBIYWxsb3VtaSB3aXRoIFp1Y2NoaW5pICYgVG9tYXRvIFNhbGFkLnBuZyIsImlhdCI6MTc1OTIyOTEyNywiZXhwIjo0OTEyODI5MTI3fQ.fNphy5b3i7dTLBBMsfbf-haKQfYuKVzQuOGaGAN7ou8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:33:38.115676+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:45:33.140498+00:00",
+              "description": "Grilled halloumi cheese with zucchini and tomato salad.",
+              "ingredients": [
+                "80g halloumi",
+                "100g zucchini",
+                "100g tomato",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Grill halloumi.",
+                "Mix with zucchini and tomato.",
+                "Serve fresh."
+              ]
+            },
+            "dinner": {
+              "id": "749347e6-16d5-4526-96db-1a11df3d9034",
+              "fat": 18,
+              "name": "Spinach & Ricotta Stuffed Shells",
+              "carbs": 48,
+              "fiber": 6,
+              "price": 34,
+              "rating": 4,
+              "protein": 21,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Spinach%20&%20Ricotta%20Stuffed%20Shells.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9TcGluYWNoICYgUmljb3R0YSBTdHVmZmVkIFNoZWxscy5wbmciLCJpYXQiOjE3NTkyMjUxODYsImV4cCI6NDkxMjgyNTE4Nn0.C0tf7oI7YzrGZVPuN8KBrYmwZOWLzEzidSPazatTjW0",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:39:54.567248+00:00",
+              "description": "Baked pasta shells stuffed with ricotta and spinach, topped with cheese.",
+              "ingredients": [
+                "Pasta shells",
+                "Ricotta",
+                "Spinach",
+                "Parmesan",
+                "Marinara",
+                "Mozzarella"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "High Protein"
+              ],
+              "instructions": [
+                "Stuff shells with ricotta-spinach mix.",
+                "Bake with marinara and cheese."
+              ]
+            }
+          },
+          "wednesday": {
+            "lunch": {
+              "id": "a6b8f3fd-cd69-4735-a642-d5d8b40f14b8",
+              "fat": 14,
+              "name": "Cottage Cheese & Lentil Bowl",
+              "carbs": 28,
+              "fiber": 8,
+              "price": 24,
+              "rating": 2,
+              "protein": 38,
+              "calories": 400,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Protein%20Boost%20Lunch/Cottage%20Cheese%20&%20Lentil%20Bowl.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvUHJvdGVpbiBCb29zdCBMdW5jaC9Db3R0YWdlIENoZWVzZSAmIExlbnRpbCBCb3dsLnBuZyIsImlhdCI6MTc1OTIyNjQ5MCwiZXhwIjo0OTEyODI2NDkwfQ.T-URtLBbzlChm8ifEfP1Oy86Ok9cG1ajdZarBFT9WrE",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:44:45.309577+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:01:36.727272+00:00",
+              "description": "Cottage cheese mixed with lentils, cucumber, and tomato.",
+              "ingredients": [
+                "Cottage cheese",
+                "Cooked lentils",
+                "Cucumber",
+                "Tomato",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Protein Boost",
+                "High Protein",
+                "Vegetarian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Mix cottage cheese with lentils and veggies.",
+                "Drizzle with olive oil."
+              ]
+            },
+            "dinner": {
+              "id": "93950d79-63e4-4ba4-a78d-94cfe8f7a8f5",
+              "fat": 14,
+              "name": "Quinoa-Stuffed Bell Peppers",
+              "carbs": 49,
+              "fiber": 10,
+              "price": 30,
+              "rating": 4,
+              "protein": 35,
+              "calories": 490,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Quinoa-Stuffed%20Bell%20Peppers.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL1F1aW5vYS1TdHVmZmVkIEJlbGwgUGVwcGVycy5wbmciLCJpYXQiOjE3NTkyMjU5NjUsImV4cCI6NDkxMjgyNTk2NX0.Ok5sAIcTuyexXwi-W8PaXMA5BUQ2LcCdww-iCajqe4c",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:52:52.75992+00:00",
+              "description": "Bell peppers stuffed with quinoa, beans, corn, and cheese.",
+              "ingredients": [
+                "Bell peppers",
+                "Quinoa",
+                "Black beans",
+                "Corn",
+                "Onion",
+                "Cheese",
+                "Salsa"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Stuff peppers with quinoa mix.",
+                "Bake topped with cheese."
+              ]
+            }
+          }
+        },
+        "week": 4,
+        "totalMeals": 13,
+        "fiveStarMeals": 0,
+        "mealsByCategory": {
+          "lunch": [
+            {
+              "id": "749b7042-27e1-4c16-9b11-3632dc115a00",
+              "fat": 12,
+              "name": "Chickpea & Spinach Curry with Rice",
+              "carbs": 64,
+              "fiber": 12,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 490,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Chickpea%20&%20Spinach%20Curry%20with%20Rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvQ2hpY2twZWEgJiBTcGluYWNoIEN1cnJ5IHdpdGggUmljZS5wbmciLCJpYXQiOjE3NTc1ODk2MTQsImV4cCI6NDkxMTE4OTYxNH0.LsR5MRMCExx2D_kAYc47iMJsTA-zhRSbM6OKHtMdyP8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-17T07:33:54.888255+00:00",
+              "description": "Vegetarian chickpea curry served with rice.",
+              "ingredients": [
+                "Chickpeas",
+                "Spinach",
+                "Onion",
+                "Tomato",
+                "Curry spices",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Cook curry with chickpeas and spinach.",
+                "Serve with rice."
+              ]
+            },
+            {
+              "id": "fd92ef09-518d-4bbd-9d56-56cd7c6dd34e",
+              "fat": 9,
+              "name": "Lentil & Veggie Stew",
+              "carbs": 60,
+              "fiber": 15,
+              "price": 28,
+              "rating": 4,
+              "protein": 22,
+              "calories": 430,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Lunch/Lentil%20&%20Veggie%20Stew.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgTHVuY2gvTGVudGlsICYgVmVnZ2llIFN0ZXcucG5nIiwiaWF0IjoxNzU5MjI2NjQ2LCJleHAiOjE3Njc4NjY2NDZ9.NIfl1q4qlJbEGiteQCjxDg6ArHdgX_-TD10DvOsVQ1I",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:22:18.252075+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:04:20.171509+00:00",
+              "description": "Hearty stew made with lentils and vegetables.",
+              "ingredients": [
+                "Lentils",
+                "Carrots",
+                "Celery",
+                "Onion",
+                "Tomato",
+                "Olive oil",
+                "Herbs"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian",
+                "High Fiber"
+              ],
+              "instructions": [
+                "Simmer lentils and vegetables until tender."
+              ]
+            },
+            {
+              "id": "a6b8f3fd-cd69-4735-a642-d5d8b40f14b8",
+              "fat": 14,
+              "name": "Cottage Cheese & Lentil Bowl",
+              "carbs": 28,
+              "fiber": 8,
+              "price": 24,
+              "rating": 2,
+              "protein": 38,
+              "calories": 400,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Protein%20Boost%20Lunch/Cottage%20Cheese%20&%20Lentil%20Bowl.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvUHJvdGVpbiBCb29zdCBMdW5jaC9Db3R0YWdlIENoZWVzZSAmIExlbnRpbCBCb3dsLnBuZyIsImlhdCI6MTc1OTIyNjQ5MCwiZXhwIjo0OTEyODI2NDkwfQ.T-URtLBbzlChm8ifEfP1Oy86Ok9cG1ajdZarBFT9WrE",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:44:45.309577+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:01:36.727272+00:00",
+              "description": "Cottage cheese mixed with lentils, cucumber, and tomato.",
+              "ingredients": [
+                "Cottage cheese",
+                "Cooked lentils",
+                "Cucumber",
+                "Tomato",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Protein Boost",
+                "High Protein",
+                "Vegetarian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Mix cottage cheese with lentils and veggies.",
+                "Drizzle with olive oil."
+              ]
+            },
+            {
+              "id": "4c233c17-858b-4848-b34a-344a9da8b00e",
+              "fat": 20,
+              "name": "Grilled Halloumi with Zucchini & Tomato Salad",
+              "carbs": 12,
+              "fiber": 5,
+              "price": 30,
+              "rating": 3,
+              "protein": 22,
+              "calories": 340,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Lunch/Grilled%20Halloumi%20with%20Zucchini%20&%20Tomato%20Salad.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgTHVuY2gvR3JpbGxlZCBIYWxsb3VtaSB3aXRoIFp1Y2NoaW5pICYgVG9tYXRvIFNhbGFkLnBuZyIsImlhdCI6MTc1OTIyOTEyNywiZXhwIjo0OTEyODI5MTI3fQ.fNphy5b3i7dTLBBMsfbf-haKQfYuKVzQuOGaGAN7ou8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:33:38.115676+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:45:33.140498+00:00",
+              "description": "Grilled halloumi cheese with zucchini and tomato salad.",
+              "ingredients": [
+                "80g halloumi",
+                "100g zucchini",
+                "100g tomato",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Grill halloumi.",
+                "Mix with zucchini and tomato.",
+                "Serve fresh."
+              ]
+            },
+            {
+              "id": "8ee502ba-b7a4-4f82-b801-288a2e073d35",
+              "fat": 26,
+              "name": "Avocado Egg Salad",
+              "carbs": 8,
+              "fiber": 4,
+              "price": 22,
+              "rating": 2,
+              "protein": 20,
+              "calories": 340,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Keto%20Lunch/Avocado%20Egg%20Salad.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvS2V0byBMdW5jaC9Bdm9jYWRvIEVnZyBTYWxhZC5wbmciLCJpYXQiOjE3NTkyMjU4ODksImV4cCI6NDkxMjgyNTg4OX0.pu6ym0ugPWybA_danP6Ca5Rin3AYINjt1Y_b6_zgZcM",
+              "prep_time": null,
+              "created_at": "2025-08-26T06:54:06.00811+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:51:36.968919+00:00",
+              "description": "Creamy egg salad with avocado and lemon.",
+              "ingredients": [
+                "Boiled eggs",
+                "Avocado",
+                "Lemon juice",
+                "Lettuce wrap"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Keto",
+                "Low Carb",
+                "Vegetarian",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Mash avocado with lemon.",
+                "Mix with boiled eggs.",
+                "Serve in lettuce wrap."
+              ]
+            },
+            {
+              "id": "41c8f4bc-a188-420c-a43d-77b9e5008c3e",
+              "fat": 30,
+              "name": "Keto Grilled Cheese with Cauliflower Bread",
+              "carbs": 9,
+              "fiber": 3,
+              "price": 28,
+              "rating": 2,
+              "protein": 22,
+              "calories": 390,
+              "category": "lunch",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Keto%20Lunch/Keto%20Grilled%20Cheese%20with%20Cauliflower%20Bread.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvS2V0byBMdW5jaC9LZXRvIEdyaWxsZWQgQ2hlZXNlIHdpdGggQ2F1bGlmbG93ZXIgQnJlYWQucG5nIiwiaWF0IjoxNzU5MjI4Njc1LCJleHAiOjQ5MTI4Mjg2NzV9.QVsoPDQ2qxMAEVveILrJIeRn-p3QNCG3LQ8Il9u8QZE",
+              "prep_time": null,
+              "created_at": "2025-08-26T06:54:06.00811+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:38:15.012638+00:00",
+              "description": "Low-carb grilled cheese made with cauliflower bread.",
+              "ingredients": [
+                "Cauliflower bread",
+                "Cheddar cheese",
+                "Butter"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Keto",
+                "Low Carb",
+                "Gluten-Free",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Assemble sandwich with cheese.",
+                "Grill until golden and melted."
+              ]
+            }
+          ],
+          "dinner": [
+            {
+              "id": "f0abaa72-24f5-4a34-be6a-c255b9ef83b2",
+              "fat": 20,
+              "name": "Grilled Halloumi & Roasted Veggies",
+              "carbs": 14,
+              "fiber": 6,
+              "price": 30,
+              "rating": 4,
+              "protein": 24,
+              "calories": 370,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Grilled%20Halloumi%20&%20Roasted%20Veggies.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0dyaWxsZWQgSGFsbG91bWkgJiBSb2FzdGVkIFZlZ2dpZXMucG5nIiwiaWF0IjoxNzU5MjI5NzEzLCJleHAiOjQ5MTI4Mjk3MTN9.7sGALaygEesW7htFRUiDujlR3swkXhTY3gBDmmO9WHA",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:55:20.742787+00:00",
+              "description": "Grilled halloumi served with roasted vegetables.",
+              "ingredients": [
+                "100g halloumi",
+                "100g zucchini",
+                "100g bell peppers",
+                "Olive oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast vegetables.",
+                "Grill halloumi.",
+                "Combine with olive oil drizzle."
+              ]
+            },
+            {
+              "id": "1c440dfd-96ec-4083-952e-2131593eb8e7",
+              "fat": 14,
+              "name": "Lentil & Spinach Curry with Brown Rice",
+              "carbs": 58,
+              "fiber": 11,
+              "price": 34,
+              "rating": 3,
+              "protein": 32,
+              "calories": 510,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Lentils%20with%20brown%20rice.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL0xlbnRpbHMgd2l0aCBicm93biByaWNlLnBuZyIsImlhdCI6MTc1OTIyNjE2NSwiZXhwIjo0OTEyODI2MTY1fQ.rUjdGwrWbpMzyVZRrWVQcjZ1KYK1KEGkVx1Pqq5B5cQ",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:56:19.91983+00:00",
+              "description": "Vegetarian curry with lentils, spinach, and coconut milk served with rice.",
+              "ingredients": [
+                "Lentils",
+                "Spinach",
+                "Onion",
+                "Garlic",
+                "Curry powder",
+                "Coconut milk",
+                "Brown rice"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Cook lentils with curry spices and coconut milk.",
+                "Stir in spinach.",
+                "Serve with rice."
+              ]
+            },
+            {
+              "id": "93950d79-63e4-4ba4-a78d-94cfe8f7a8f5",
+              "fat": 14,
+              "name": "Quinoa-Stuffed Bell Peppers",
+              "carbs": 49,
+              "fiber": 10,
+              "price": 30,
+              "rating": 4,
+              "protein": 35,
+              "calories": 490,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Balanced%20Dinner/Quinoa-Stuffed%20Bell%20Peppers.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvQmFsYW5jZWQgRGlubmVyL1F1aW5vYS1TdHVmZmVkIEJlbGwgUGVwcGVycy5wbmciLCJpYXQiOjE3NTkyMjU5NjUsImV4cCI6NDkxMjgyNTk2NX0.Ok5sAIcTuyexXwi-W8PaXMA5BUQ2LcCdww-iCajqe4c",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:24:20.509678+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:52:52.75992+00:00",
+              "description": "Bell peppers stuffed with quinoa, beans, corn, and cheese.",
+              "ingredients": [
+                "Bell peppers",
+                "Quinoa",
+                "Black beans",
+                "Corn",
+                "Onion",
+                "Cheese",
+                "Salsa"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Balanced",
+                "Vegetarian"
+              ],
+              "instructions": [
+                "Stuff peppers with quinoa mix.",
+                "Bake topped with cheese."
+              ]
+            },
+            {
+              "id": "749347e6-16d5-4526-96db-1a11df3d9034",
+              "fat": 18,
+              "name": "Spinach & Ricotta Stuffed Shells",
+              "carbs": 48,
+              "fiber": 6,
+              "price": 34,
+              "rating": 4,
+              "protein": 21,
+              "calories": 420,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Spinach%20&%20Ricotta%20Stuffed%20Shells.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9TcGluYWNoICYgUmljb3R0YSBTdHVmZmVkIFNoZWxscy5wbmciLCJpYXQiOjE3NTkyMjUxODYsImV4cCI6NDkxMjgyNTE4Nn0.C0tf7oI7YzrGZVPuN8KBrYmwZOWLzEzidSPazatTjW0",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T09:39:54.567248+00:00",
+              "description": "Baked pasta shells stuffed with ricotta and spinach, topped with cheese.",
+              "ingredients": [
+                "Pasta shells",
+                "Ricotta",
+                "Spinach",
+                "Parmesan",
+                "Marinara",
+                "Mozzarella"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "Italian",
+                "High Protein"
+              ],
+              "instructions": [
+                "Stuff shells with ricotta-spinach mix.",
+                "Bake with marinara and cheese."
+              ]
+            },
+            {
+              "id": "a9956564-1238-48cc-ba5c-3edca57abcf0",
+              "fat": 14,
+              "name": "Veggie Stir-Fry with Tofu",
+              "carbs": 22,
+              "fiber": 6,
+              "price": 26,
+              "rating": 2,
+              "protein": 20,
+              "calories": 290,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Veggie%20Stir-Fry%20with%20Tofu.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9WZWdnaWUgU3Rpci1Gcnkgd2l0aCBUb2Z1LnBuZyIsImlhdCI6MTc1OTIyNjYxNywiZXhwIjo1MjU5NzIyNjE3fQ.pppuq98q0ABBZT0CnVawEPYwrdcHU3vfA8GgiVfhKl8",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:03:45.681172+00:00",
+              "description": "Stir-fried tofu with broccoli, bell peppers, carrots, and sesame oil.",
+              "ingredients": [
+                "Tofu",
+                "Broccoli",
+                "Bell peppers",
+                "Carrots",
+                "Soy sauce",
+                "Ginger",
+                "Garlic",
+                "Sesame oil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Asian"
+              ],
+              "instructions": [
+                "Sauté tofu and veggies with sauce.",
+                "Stir-fry 5 minutes."
+              ]
+            },
+            {
+              "id": "70146dd9-d147-4232-b6ec-b017e8708030",
+              "fat": 22,
+              "name": "Broccoli & Cheese Casserole",
+              "carbs": 28,
+              "fiber": 7,
+              "price": 33,
+              "rating": 3,
+              "protein": 20,
+              "calories": 390,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Vegetarian%20Kitchen%20Dinner/Broccoli%20&%20Cheese%20Casserole.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvVmVnZXRhcmlhbiBLaXRjaGVuIERpbm5lci9Ccm9jY29saSAmIENoZWVzZSBDYXNzZXJvbGUucG5nIiwiaWF0IjoxNzU5MjI3MDIzLCJleHAiOjE3Njc4NjcwMjN9.gmrKShwA0CMbWOqbp8tY5yWFCXRFcBD0bq9Pt-6P-no",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:50:52.255116+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:10:30.389071+00:00",
+              "description": "Casserole with broccoli, cheese, eggs, and breadcrumbs.",
+              "ingredients": [
+                "Broccoli",
+                "Cheddar",
+                "Onion",
+                "Garlic",
+                "Eggs",
+                "Breadcrumbs",
+                "Milk"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Vegetarian Kitchen",
+                "Vegetarian",
+                "High Protein",
+                "Comfort Food"
+              ],
+              "instructions": [
+                "Steam broccoli.",
+                "Mix with cheese",
+                "eggs",
+                "and breadcrumbs.",
+                "Bake until golden."
+              ]
+            },
+            {
+              "id": "6f05448a-b2ae-4682-aa57-6ddb0f252b83",
+              "fat": 16,
+              "name": "Eggplant Pizza Rounds",
+              "carbs": 11,
+              "fiber": 5,
+              "price": 32,
+              "rating": 2,
+              "protein": 18,
+              "calories": 280,
+              "category": "dinner",
+              "image_url": "https://rvbfguamiityqlheqjnu.supabase.co/storage/v1/object/sign/meals_images/Low%20Carb%20Dinner/Eggplant%20Pizza%20Rounds.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzgyMGI1ZS1jYjAxLTQ5YzItOTM1Yi00Y2EyNmFkZDI1MmYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJtZWFsc19pbWFnZXMvTG93IENhcmIgRGlubmVyL0VnZ3BsYW50IFBpenphIFJvdW5kcy5wbmciLCJpYXQiOjE3NTkyMjY5MzcsImV4cCI6NDkxMjgyNjkzN30.hjF278JTO-z6-2X--ZgC5qjgGNOBpZhkOBiQBrsSp5k",
+              "prep_time": null,
+              "created_at": "2025-08-26T10:31:26.038891+00:00",
+              "difficulty": null,
+              "meal_image": null,
+              "updated_at": "2025-09-30T10:09:08.420299+00:00",
+              "description": "Baked eggplant slices topped with tomato sauce and cheese.",
+              "ingredients": [
+                "1 eggplant (sliced)",
+                "Tomato sauce",
+                "Mozzarella",
+                "Basil"
+              ],
+              "cuisine_type": null,
+              "dietary_tags": [
+                "Low Carb",
+                "Vegetarian",
+                "Balanced",
+                "Gluten-Free"
+              ],
+              "instructions": [
+                "Roast eggplant slices.",
+                "Top with sauce and cheese.",
+                "Bake 10 min."
+              ]
+            }
+          ],
+          "snacks": [],
+          "breakfast": []
+        }
+      }
+    ],
+    "userId": 7,
+    "startDate": "2025-10-02T16:49:12.548Z",
+    "totalMeals": 44,
+    "generatedAt": "2025-10-02T16:49:12.548Z",
+    "subscription": "weekly",
+    "fiveStarMeals": 0
+  }
